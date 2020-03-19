@@ -18,4 +18,6 @@ If you can use both Simplified Chinese and your language fluently, you can help 
 
 ::: tip
 LittleSkin 用户使用手册中的所有内容，除非特别说明，均以 [知识共享 - 署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权使用。在引用 LittleSkin 用户使用手册中的内容时，请注意遵守许可协议。
+
+你可以在 [GitHub](https://github.com/tnqzh123/littleskin-manual) 获取到 LittleSkin 用户使用手册的所有 Markdown 源文件。我们也欢迎各位对 LittleSkin 用户使用手册提出修订。
 :::
