@@ -11,6 +11,10 @@ module.exports = {
         externalLinks: { target: '_blank' }
     },
     themeConfig: {
+        docsRepo: 'tnqzh123/littleskin-manual',
+        docsBranch: 'master',
+        editLinks: true,
+        editLinkText: '帮助我们完善这个页面',
         nav: [
             { text: '返回 LittleSkin', link: 'https://littleskin.cn' },
             { text: '捐助支持', link: 'https://afdian.net/@tnqzh123' }
