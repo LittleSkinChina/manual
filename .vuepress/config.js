@@ -47,7 +47,7 @@ module.exports = {
         ],
         lastUpdated: '最后更新 ',
         algolia: {
-            apiKey: 'process.env.ALGOLIA_APIKEY',
+            apiKey: process.env.ALGOLIA_APIKEY,
             indexName: 'littleskin'
         }
     },
