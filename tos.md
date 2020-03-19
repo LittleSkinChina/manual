@@ -2,8 +2,8 @@
 
 ## 太长不看版
 
-::: warning
-本浓缩版本旨在使用户快速理解本服务条款梗概，并不具备任何实际效益。所有内容请以“详细条款”部分为准。
+::: warning 注意
+本浓缩版本旨在使用户快速理解本服务条款梗概，并不具备任何实际效益。**所有内容请以“详细条款”部分为准。**
 :::
 
 ### 不要做这些
@@ -30,7 +30,8 @@ LittleSkin 不会对任何情况下造成的任何损失负责。
 
 ### GDPR
 
-由于 GDPR 合规性问题，LittleSkin 暂不对欧盟用户提供服务。
+由于 GDPR 合规性问题，LittleSkin 暂不对欧盟用户提供服务。  
+> Due to GDPR compliance issues, **LittleSkin does not provide services to EU users at this time.**
 
 ### 禁止的使用途径
 
