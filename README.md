@@ -11,9 +11,9 @@ LittleSkin 使用 Blessing Skin Server 开发版本，快速的更新导致文�
 :::
 
 ::: warning Can't understand Chinese?
-These documents are only available in Simplified Chinese at present. You may can use [Google Translate](https://translate.google.com).
+These documents are only available in Simplified Chinese at present. You may use [Google Translate](https://translate.google.com).
 
-If you can use both Simplified Chinese and your language fluently, you can help us to translate these documents if you are willing :-) Please contact administrators in [our user chatting group](/user-group.html).
+If you can use both Simplified Chinese and your language fluently, you can help us to translate these documents if you are willing :-) Please contact the administrators in [our user chatting group](/user-group.html).
 :::
 
 ::: tip

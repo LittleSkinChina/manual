@@ -32,7 +32,7 @@ LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功�
 :::
 
 ::: tip
-如果你使用 BungeeCord，你需要在所有服务端（包括 BungeeCord 和所有子服）中加载 authlib-injector（方法见上），但只有 BungeeCord 打开 `online-mode`，其他服务端应该关闭 `online-mode`。
+如果你使用 BungeeCord，你需要在所有服务端（包括 BungeeCord 和所有子服）中加载 authlib-injector（方法见上），但只有 BungeeCord 可以打开 `online-mode`，其他服务端应该关闭 `online-mode`。
 :::
 
 ## 在客户端使用
