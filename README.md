@@ -6,11 +6,6 @@ title: 首页
 
 请查看左侧的目录来寻找你想要的内容。**你现在可以通过右上角的搜索框快速查找内容。**
 
-::: warning 看清楚哦
-此为 Xiao_Jin 制作的 非官方手册！官方版请移步 [LittleSkin 用户使用手册](https://manual.littleskin.cn/)。
-部分内容仅代表作者个人观点，与LittleSkin无关！
-:::
-
 ::: tip LittleSkin 域名更改
 因为一些原因，我们将在近期对服务域名进行一些调整：  
 - 旧域名 `mcskin.littleservice.cn` 重新启用，主要面向国内用户提供服务；
