@@ -16,7 +16,7 @@ module.exports = {
         editLinks: true,
         editLinkText: '帮助我们完善这个页面',
         nav: [
-            { text: '返回 LittleSkin', link: 'https://littleskin.cn' },
+            { text: '返回 LittleSkin', link: 'https://mcskin.littleservice.cn' },
             { text: '捐助支持', link: 'https://afdian.net/@tnqzh123' }
         ],
         sidebar: [

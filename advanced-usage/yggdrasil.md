@@ -8,7 +8,7 @@ LittleSkin 提供 Yggdrasil 验证鉴权服务。你可以配合 [authlib-inject
 LittleSkin 的 Yggdrasil API 的地址是：
 
 ```
-https://littleskin.cn/api/yggdrasil
+https://mcskin.littleservice.cn/api/yggdrasil
 ```
 
 LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功能。在使用支持 ALI 的 authlib-injector 和启动器时，输入 LittleSkin 的任意页面的地址即可被识别。
@@ -22,7 +22,7 @@ LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功�
 请先将服务器配置文件（一般为 server.properties）中 `online-mode` 一项的值设为 `true`，然后在你的服务端的启动指令的 `-jar` 参数前添加如下参数：
 
 ```
--javaagent:{path/to/authlib-injector.jar}=https://littleskin.cn/api/yggdrasil
+-javaagent:{path/to/authlib-injector.jar}=https://mcskin.littleservice.cn/api/yggdrasil
 ```
 
 其中 `{path/to/authlib-injector.jar}` 为指向 authlib-injector 的路径。
