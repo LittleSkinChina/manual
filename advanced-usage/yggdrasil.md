@@ -37,10 +37,10 @@ LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功�
 
 ## 在客户端使用
 
-在客户端中使用 LittleSkin 的 Yggdrasil 需要启动器支持自定义 Yggdrasil 服务器。推荐使用 [HMCL 3](https://www.mcbbs.net/thread-142335-1-1.html)。
+在客户端中使用 LittleSkin 的 Yggdrasil 需要启动器支持自定义 Yggdrasil 服务器。推荐使用 [HMCL](https://www.mcbbs.net/thread-142335-1-1.html) 和 [BakaXL](https://www.mcbbs.net/thread-512144-1-1.html)。
 
 ::: tip
-如果你使用的启动器不支持自定义 Yggdrasil，并且你使用的启动器是使用 Java 编写的，你也可以手动添加 JVM 参数来加载 authlib-injector（就像在服务端使用 authlib-injector 一样），但是本文不介绍这种做法。
+如果你使用的启动器不支持自定义 Yggdrasil，并且你使用的启动器是使用 Java 编写的，你也可以手动添加 JVM 参数来加载 authlib-injector（就像在服务端使用 authlib-injector 一样），但是这篇文档不介绍这种做法。
 :::
 
 以下以 HMCL 3 为例，演示在 Minecraft 客户端中使用 Yggdrasil。
@@ -77,3 +77,4 @@ LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功�
 
 - [在 Minecraft 服务端使用 authlib-injector](https://github.com/yushijinhun/authlib-injector/wiki/%E5%9C%A8-Minecraft-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BD%BF%E7%94%A8-authlib-injector)
 - [配合 authlib-injector 使用](https://github.com/bs-community/yggdrasil-api/wiki/0x03-配合-authlib-injector-使用)
+- [BakaXL 使用指南 | 创建第三方验证模式 Minecraft 用户档案的窍门](https://www.bilibili.com/video/BV1W741197Bv)
