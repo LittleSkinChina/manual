@@ -3,7 +3,7 @@ module.exports = {
     base: '/',
     ga: 'UA-136793183-1',
     head: [
-        ['link', { rel: 'icon', href: 'https://resource.littleskin.cn/favicon.png' }]
+        ['link', { rel: 'icon', href: 'https://littleskin-resource-1251562235.file.myqcloud.com/favicon.png' }]
     ],
     serviceWorker: true,
     markdown: {
