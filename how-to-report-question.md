@@ -47,10 +47,10 @@
 
 - 如果是游戏内材质无法显示，请提供皮肤 Mod 的日志：
     - CustomSkinLoader 的日志位于 `.minecraft/CustomSkinLoader/CustomSkinLoader.log`
-- 如果是 Yggdrasil 外置登录的问题，请提供以下日志：
-    - 在 Java 虚拟机参数中加入 `-Dauthlibinjector.debug=all`
+- 如果是 Yggdrasil 外置登录的问题，请在添加 JVM 参数 `-Dauthlibinjector.debug=all` 并复现问题后，提供以下日志：
     - 服务端从开始到出错的所有日志（最后一次运行服务端生成的日志位于 `logs/latest.log`）
-    - 客户端游戏从开始到出错的所有日志（最后一次游戏生成的日志位于 `.minecraft/logs/latest.log`），优先使用启动器测试游戏的导出日志
+    - 客户端游戏从开始到出错的所有日志（最后一次游戏生成的日志位于 `.minecraft/logs/latest.log`）
+     - 如果有，请优先使用启动器的「测试游戏」功能导出的日志
     - 启动器日志（请咨询启动器作者以获取日志位置）
 
 如果没有这些日志，请在提问时说明清楚；如果你提问后被要求提供更多信息，请提供这些信息以帮助我们查找问题。
