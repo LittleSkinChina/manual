@@ -4,6 +4,8 @@ sidebarDepth: 2
 
 # 常见问题解答
 
+[[toc]]
+
 ## 站点使用相关
 
 ### 收不到验证邮件？
@@ -56,24 +58,26 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 ### 为什么我在网站上设置好了材质，但是在游戏中不显示 / 没更新？
 
-这是个很常见的问题。大多数情况下，这个问题是以下两个原因引起的：
+这是个很常见的问题。大多数情况下，这个问题是以下三个原因引起的：
 
 1. 你没有正确地安装和配置皮肤 Mod；
-2. 你的材质被你的皮肤 Mod 缓存了。
+2. 你安装的其它 Mod（如 NonUpdate）干扰了皮肤 Mod 与 LittleSkin 之间的连接；
+3. 你的材质被你的皮肤 Mod 缓存了。
 
 解决方案分别是：
 
 1. 正确安装并配置皮肤 Mod。你可以在 [新手指引 - 配置 Mod](/newbee-guide/config-mod.html) 中学习如何正确配置皮肤 Mod；
-2. 等待几分钟后再试。如果还是没有更新，尝试清除你的皮肤 Mod 的缓存：
+2. 删除这些 Mod，或让它们绕过皮肤 Mod 与 LittleSkin 之间的连接；
+3. 等待几分钟后再试。如果还是没有更新，尝试清除你的皮肤 Mod 的缓存：
     - CustomSkinLoader 的缓存位于 `.minecraft/CustomSkinLoader/caches`。
 
-如果你确定你的问题不是以上原因引起的，或者你按照以上的解决方案做了之后你的角色的材质依然没有显示或更新，请在详细阅读 [报告问题的正确姿势](/how-to-report-question.html) 后带上你的皮肤 Mod 的日志，加入 [官方用户交流群](/user-group.html) 询问。
+如果你确定你的问题不是以上原因引起的，或者你按照以上的解决方案做了之后你的角色的材质依然没有显示或更新，请在详细阅读 [报告问题的正确姿势](/how-to-report-question.html) 后带上你的皮肤 Mod 的日志，加入 [官方用户交流群](/user-group.html) 询问，或直接购买一对一远程技术支持服务。
 
 ### 单人游戏中可以正常显示皮肤，但在多人游戏中就不行？
 
 这种情况往往在使用 Yggdrasil 外置登录进行服务器联机时出现。
 
-由于 Minecraft 的材质加载机制，在多人游戏中，只有服务端启用了 `online-mode` 才可以加载材质。如果你游玩的服务器没有加载 authlib-injector 并正确配置 LittleSkin 的 Yggdrasil API，那么在服务器联机时就不会加载材质。
+由于 Minecraft 的材质加载机制，在多人游戏中，只有服务端启用了在线模式（`online-mode`）才可以加载材质。如果你游玩的服务器没有加载 authlib-injector 并正确配置 LittleSkin 的 Yggdrasil API，那么在服务器联机时就不会加载材质。
 
 如果你有在服务器联机中加载材质的需求，请使用皮肤 Mod 加载材质。
 
@@ -95,7 +99,7 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 ### 为什么我无法使用 Universal Skin Mod 加载材质了？
 
-由于一些技术上的原因，LittleSkin 自 2020 年 1 月 23 日起不再支持 UniSkinAPI。你仍然可以通过传统加载方式加载材质，但我们建议使用 Universal Skin Mod 加载材质的用户更换到 CustomSkinLoader。
+由于一些技术上的原因，LittleSkin 自 2020 年 1 月起不再支持 UniSkinAPI。你仍然可以通过传统加载方式加载材质，但我们建议使用 Universal Skin Mod 加载材质的用户尽快更换到 CustomSkinLoader。
 
 ### 加载 authlib-injector 启动游戏时启动器报错 `Malformed Response`
 
