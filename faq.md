@@ -67,9 +67,9 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 解决方案分别是：
 
 1. 正确安装并配置皮肤 Mod。你可以在 [新手指引 - 配置 Mod](/newbee-guide/config-mod.html) 中学习如何正确配置皮肤 Mod；
-2. 删除这些 Mod，或让它们绕过皮肤 Mod 与 LittleSkin 之间的连接；
+2. 删除这些 Mod，或更改它们的配置文件，使它们能绕过皮肤 Mod 与 LittleSkin 之间的连接；
 3. 等待几分钟后再试。如果还是没有更新，尝试清除你的皮肤 Mod 的缓存：
-    - CustomSkinLoader 的缓存位于 `.minecraft/CustomSkinLoader/caches`。
+    - CustomSkinLoader 的缓存位于 `.minecraft/CustomSkinLoader/caches`，只需要删除这个文件夹即可。
 
 如果你确定你的问题不是以上原因引起的，或者你按照以上的解决方案做了之后你的角色的材质依然没有显示或更新，请在详细阅读 [报告问题的正确姿势](/how-to-report-question.html) 后带上你的皮肤 Mod 的日志，加入 [官方用户交流群](/user-group.html) 询问，或直接购买一对一远程技术支持服务。
 
