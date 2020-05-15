@@ -6,18 +6,29 @@ sidebarDepth: 2
 
 LittleSkin 仅提供材质的上传、存储、检索和分享的功能。想要在 Minecraft 中显示你在 LittleSkin 设置的材质的话，你需要在 Minecraft 客户端中安装皮肤 Mod 并修改相应的配置文件。
 
-所有的配置文件内容都可以在用户中心的「皮肤 Mod」页面找到。
-
 :::tip
-当前 LittleSkin 支持 CustomSkinAPI 和传统加载。我们建议使用 [CustomSkinLoader](#CustomSkinLoader) 通过 CustomSkinAPI 加载材质，或使用 [SkinPort](#SkinPort) 通过「传统加载」加载材质。  
-如何安装 Mod 请自行搜索，本文假定你已经安装好了皮肤 Mod，仅说明如何配置皮肤 Mod 使其从 LittleSkin 加载材质。
+如何安装 Mod 请自行搜索，本文不会说明如何安装皮肤 Mod，仅说明如何配置皮肤 Mod，使其从 LittleSkin 加载材质。
+
+在一些情况下，安装皮肤 Mod 后，可能需要启动一次游戏并进入存档，Mod 才会自动生成配置文件；如果你在启动器中启用了版本隔离，配置文件的路径可能有所不同。
+:::
+
+::: danger
+只需要使用一种皮肤 Mod 即可。请不要同时安装多个皮肤 Mod，否则，轻则无法正常加载材质，重则导致游戏崩溃。
+:::
+
+::: warning
+除 SkinPort 外，皮肤 Mod 和 Yggdrasil 外置登录二选一即可。请不要同时使用这两者，否则可能无法正常加载材质。
 :::
 
 ## CustomSkinLoader
 
+CustomSkinLoader 是我们最推荐的皮肤 Mod。
+
+你可以在 [MCBBS](https://www.mcbbs.net/thread-269807-1-1.html) 或 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/customskinloader) 获取关于 CustomSkinLoader 的更多信息。
+
 ### 14.7 +
 
-LittleSkin 自 CustomSkinLoader 14.7 起被添加到了 CustomSkinLoader 的默认加载列表中，加载顺序仅次于正版皮肤，安装完成后你无需进行任何修改即可加载来自 LittleSkin 的材质。Cheers!
+LittleSkin 自 CustomSkinLoader 14.7 起被添加到了 CustomSkinLoader 的默认加载列表中，加载顺序仅次于正版皮肤，在大部分情况下，安装完成后你无需进行任何修改即可加载来自 LittleSkin 的材质。Cheers!
 
 如果因为存在与你同名的正版角色导致冲突而无法加载来自 LittleSkin 的材质，请参考下方的适用于 CustomSkinLoader 13.1 ~ 14.6a 的配置方法来修改 CustomSkinLoader 的配置文件。
 
@@ -77,25 +88,32 @@ https://skin.prinzeugen.net/cape/*.png
 
 保存退出，再次打开 Minecraft 之后，你应该就能看到你在 LittleSkin 中设置的材质了。
 
-## SkinPort <Badge text="beta" type="warning"/>
-::: warning
-这一部分正在接受 beta 测试，可能会出现未知的问题。
-:::
+## SkinPort
 
-如果你使用了 Alex 模型的材质，并且你的 Minecraft 版本为 1.7.10（必须是 1.7.10），你可能需要通过 SkinPort 来加载你的材质。  
-你可以在 [GitHub Releases](https://github.com/zlainsama/SkinPort/releases/latest) 下载到最新版本的 SkinPort。
+如果你想要在 Minecraft 1.7.10 中加载 Alex 模型的皮肤，你需要使用 SkinPort。
+
+你可以在 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skinport) 获取到关于 SkinPort 的更多信息。
 
 ::: tip
-目前仅支持 1.7.10-v10 及以上版本的 SkinPort。SkinPort 加载方式的本质是传统加载。
+LittleSkin 仅支持 1.7.10-v10a 或更高版本的 SkinPort。
+
+如果你使用 Yggdrasil 外置登录加载材质，则只需要安装任意版本的 SkinPort 即可，无需修改配置文件。
 :::
 
-在完成安装后，你需要先启动一次游戏，使 SkinPort 被加载，随后即可关闭。配置文件将会生成在 `.minecraft/config/skinport.cfg`。请使用记事本或者任意代码编辑器将其打开，将原有的所有内容替换成以下内容：
+::: danger
+SkinPort 仅适用于 Minecraft 1.7.10。对于更低版本，目前没有方法加载 Alex 模型的皮肤。
+
+请勿将 SkinPort 安装在其它版本的 Minecraft 上，否则可能导致游戏崩溃。
+:::
+
+配置文件位于 `.minecraft/config/skinport.cfg`。请使用记事本或者任意代码编辑器将其打开，将原有的所有内容替换成以下内容：
+
 ``` conf
 client {
     S:hostCustomServer=http://example.com
     S:hostCustomServer2Cape=https://mcskin.littleservice.cn/cape/%name%.png
     S:hostCustomServer2Skin=https://mcskin.littleservice.cn/skin/%name%.png
-    B:useCrafatar=true
+    B:useCrafatar=false
     B:useCustomServer=false
     B:useCustomServer2=true
     B:useMojang=false
