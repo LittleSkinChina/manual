@@ -118,7 +118,6 @@ client {
     B:useCustomServer2=true
     B:useMojang=false
 }
-
 ```
 
 保存退出，再次打开 Minecraft 之后，你应该就能看到你在 LittleSkin 中设置的材质了。
