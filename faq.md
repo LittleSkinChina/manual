@@ -16,15 +16,6 @@ sidebarDepth: 2
 
 如果你确定你绑定的邮箱正确，并且验证邮件不在你的邮箱的垃圾箱里，请加入我们的 [官方用户交流群](/user-group.html)，联系站点管理员处理。
 
-### 网站的速度变得很慢/打不开
-
-出于某些原因，LittleSkin 在 2020 年 3 月对域名做出了一些调整
-
-- `mcskin.littleservice.cn` 重新启用，主要面向国内用户提供服务；  
-- `littleskin.cn` 保持可用，但主要面向海外用户提供服务，国内用户使用 `littleskin.cn` 访问 LittleSkin 可能会非常慢。
-
-我们建议国内用户通过 <https://mcskin.littleservice.cn/>、海外用户通过 <https://littleskin.cn/> 使用 LittleSkin，以获取最佳的用户体验。
-
 ### 我的角色被别人占用了，我可以要回来吗？
 
 不可以。重名的几率很大，随意更改角色所有者对双方都不公平，所以不管你是名声多大的主播还是某个达官贵人家的孩子，我们都不会提供更改角色所有者的服务。
@@ -47,17 +38,9 @@ LittleSkin 对材质格式有着严格的要求，请按照 Minecraft 官方的�
 
 此外，LittleSkin 不支持 22\*17 格式的披风，请自行将披风转换为 64\*32 格式后再上传。 
 
-### 上传材质时提示积分不足
-
-这通常是因为你的材质文件较为庞大。
-
-我们推荐你使用 [TinyPNG](https://tinypng.com/) 此类的工具压缩你的图片。这可以在保证图片质量的同时减小文件体积，进而少花费一些积分。
-
-如果依然提示积分不够，请参阅 [积分系统](/score.html#获取积分的方式) 了解获取积分的方式。
-
 ### 发生严重错误！
 
-如果你在使用 LittleSkin 时遇到了红色的「严重错误」的弹窗，请将其截图并加入 [官方用户交流群](/user-group.html) 联系站点管理员处理。
+如果你在使用 LittleSkin 时遇到了红色的「严重错误」的弹窗，请将其截图并加入 [官方用户交流群](/user-group.html) ，联系站点管理员处理。
 
 ### 什么时候会举办活动呀？活动的内容有什么呢？
 
@@ -87,12 +70,11 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 1. 正确安装并配置皮肤 Mod。你可以在 [新手指引 - 配置 Mod](/newbee-guide/config-mod.html) 中学习如何正确配置皮肤 Mod；
 2. 删除这些 Mod，或让它们绕过皮肤 Mod 与 LittleSkin 之间的连接；
 3. 等待几分钟后再试。如果还是没有更新，尝试清除你的皮肤 Mod 的缓存：
-    - CustomSkinLoader 的缓存位于 `.minecraft/CustomSkinLoader/caches`，直接删除此文件夹即可；
-4. 使用 SkinPort 加载材质，而不是 CustomSkinLoader。
-
-::: tip
-如果你在 LittleSkin 域名调整之后（2020 年 3 月后）没有手动更改过皮肤 Mod 的配置，这可能会影响到正常的加载。如果你在中国大陆，建议 [更改皮肤 Mod 的配置](/newbee-guide/config-mod.html)。
-:::
+    - CustomSkinLoader 的缓存位于 `.minecraft/CustomSkinLoader/caches`；
+    - SkinPort 的缓存位于 `.minecraft/cachedImages`
+4. 更换皮肤 Mod，或更换为 Steve 模型的材质：
+    - 对于 1.7.10，请使用 SkinPort 加载材质；
+    - 对于更低版本，目前无解，请更换为 Steve 模型的皮肤。
 
 如果你确定你的问题不是以上原因引起的，或者你按照以上的解决方案做了之后你的角色的材质依然没有显示或更新，请在详细阅读 [报告问题的正确姿势](/how-to-report-question.html) 后带上你的皮肤 Mod 的日志，加入 [官方用户交流群](/user-group.html) 询问，或直接购买一对一远程技术支持服务。
 
@@ -104,35 +86,19 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 如果你有在服务器联机中加载材质的需求，请使用皮肤 Mod 加载材质。
 
-### 在版本 1.8 以下的 Minecraft 看不见双层皮肤 / Alex 模型的皮肤？
-
-双层皮肤支持和 Alex 模型是在 Minecraft 1.8 加入的，1.8 以下的版本只能加载单层的 Steve 模型的材质。
-
-对于 1.7.10，你可以安装 [SkinPort](https://github.com/zlainsama/SkinPort/releases) 来支持双层皮肤和 Alex 模型的皮肤（如果是服务器多人联机，则服务端上也需要安装）。1.7.10 以下无解，只能使用单层 Steve 模型的材质。
-
-如果你安装了 SkinPort 后仍然无法正常加载材质，请继续往下看。
-
-### 安装 SkinPort 后仍无法正常加载材质
-
-请打开 SkinPort 的配置文件（位于 `.minecraft/config/skinport.cfg`），将 `useCrafatar` 这一项的值改为 `false`，并删除 `cachedImages` 目录。操作完成后，再次进入游戏，应该就可以正常加载材质了。
-
-::: tip
-如果你使用的是 Alex 模型的皮肤，请确定你的皮肤满足要求：皮肤的 (55,20) 这个位置的像素必须是透明的（高清皮肤请自行乘以相应比例），且必须是双层皮肤。不满足条件的皮肤将不会被加载。
-:::
-
 ### 为什么我无法使用 Universal Skin Mod 加载材质了？
 
 由于一些技术上的原因，LittleSkin 自 2020 年 1 月起不再支持 UniSkinAPI。你仍然可以通过传统加载方式加载材质，但我们建议使用 Universal Skin Mod 加载材质的用户尽快更换到 CustomSkinLoader。
 
-### 加载 authlib-injector 启动游戏时启动器报错 `Malformed Response`
+### 启动器下载 authlib-injector 失败
 
-这是因为启动器下载 authlib-injector 失败，一般是网络原因引起的。
+虽然可能有多种报错，但一般都是网络原因引起的，请在启动器中更换下载源后再试。
 
-如果你使用 HMCL 3，请在启动器设置中更换下载源后重新尝试启动游戏。如果更换下载源后仍然报错，请手动下载 authlib-injector，将其放入 `%appdata%\.hmcl\` 中并重命名为 `authlib-injector.jar`。使用其他启动器的用户请咨询启动器作者。
+如果你使用 HMCL 3，如果更换下载源后仍然报错，请手动下载 authlib-injector，将其放入 `%appdata%\.hmcl\` 中并重命名为 `authlib-injector.jar`。使用其他启动器的用户请咨询启动器作者。
 
 ### 别人看不到我的材质？
 
-只有正确安装并配置皮肤 Mod 后才能加载来自 LittleSkin 的材质。
+只有 **正确安装并配置** 皮肤 Mod 后才能加载来自 LittleSkin 的材质。
 
 如果你想让别人也看见你的材质，请让他们也正确安装并配置皮肤 Mod。
 
