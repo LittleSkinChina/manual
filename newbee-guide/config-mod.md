@@ -9,7 +9,8 @@ LittleSkin 仅提供材质的上传、存储、检索和分享的功能。想要
 所有的配置文件内容都可以在用户中心的「皮肤 Mod」页面找到。
 
 :::tip
-当前 LittleSkin 支持 CustomSkinAPI 和传统加载。我们建议使用 CustomSkinLoader 通过 CustomSkinAPI 加载材质。如何安装 Mod 请自行搜索，本文假定你已经安装好了皮肤 Mod，仅说明如何配置皮肤 Mod 使其从 LittleSkin 加载材质。
+当前 LittleSkin 支持 CustomSkinAPI 和传统加载。我们建议使用 [CustomSkinLoader](#CustomSkinLoader) 通过 CustomSkinAPI 加载材质，或使用 [SkinPort](#SkinPort) 通过「传统加载」加载材质。  
+如何安装 Mod 请自行搜索，本文假定你已经安装好了皮肤 Mod，仅说明如何配置皮肤 Mod 使其从 LittleSkin 加载材质。
 :::
 
 ## CustomSkinLoader
@@ -72,6 +73,34 @@ https://skin.prinzeugen.net/skin/*.png
 ```
 https://mcskin.littleservice.cn/cape/*.png
 https://skin.prinzeugen.net/cape/*.png
+```
+
+保存退出，再次打开 Minecraft 之后，你应该就能看到你在 LittleSkin 中设置的材质了。
+
+## SkinPort <Badge text="beta" type="warning"/>
+::: warning
+这一部分正在接受 beta 测试，可能会出现未知的问题。
+:::
+
+如果你使用了 Alex 模型的材质，并且你的 Minecraft 版本为 1.7.10（必须是 1.7.10），你可能需要通过 SkinPort 来加载你的材质。  
+你可以在 [GitHub Releases](https://github.com/zlainsama/SkinPort/releases/latest) 下载到最新版本的 SkinPort。
+
+::: tip
+目前仅支持 1.7.10-v10 及以上版本的 SkinPort。SkinPort 加载方式的本质是传统加载。
+:::
+
+在完成安装后，你需要先启动一次游戏，使 SkinPort 被加载，随后即可关闭。配置文件将会生成在 `.minecraft/config/skinport.cfg`。请使用记事本或者任意代码编辑器将其打开，将原有的所有内容替换成以下内容：
+``` conf
+client {
+    S:hostCustomServer=http://example.com
+    S:hostCustomServer2Cape=https://mcskin.littleservice.cn/cape/%name%.png
+    S:hostCustomServer2Skin=https://mcskin.littleservice.cn/skin/%name%.png
+    B:useCrafatar=true
+    B:useCustomServer=false
+    B:useCustomServer2=true
+    B:useMojang=false
+}
+
 ```
 
 保存退出，再次打开 Minecraft 之后，你应该就能看到你在 LittleSkin 中设置的材质了。

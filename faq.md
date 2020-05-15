@@ -16,6 +16,15 @@ sidebarDepth: 2
 
 如果你确定你绑定的邮箱正确，并且验证邮件不在你的邮箱的垃圾箱里，请加入我们的 [官方用户交流群](/user-group.html)，联系站点管理员处理。
 
+### 网站的速度变得很慢/打不开
+
+出于某些原因，LittleSkin 在 2020 年 3 月对域名做出了一些调整
+
+- `mcskin.littleservice.cn` 重新启用，主要面向国内用户提供服务；  
+- `littleskin.cn` 保持可用，但主要面向海外用户提供服务，国内用户使用 `littleskin.cn` 访问 LittleSkin 可能会非常慢。
+
+我们建议国内用户通过 <https://mcskin.littleservice.cn/>、海外用户通过 <https://littleskin.cn/> 使用 LittleSkin，以获取最佳的用户体验。
+
 ### 我的角色被别人占用了，我可以要回来吗？
 
 不可以。重名的几率很大，随意更改角色所有者对双方都不公平，所以不管你是名声多大的主播还是某个达官贵人家的孩子，我们都不会提供更改角色所有者的服务。
@@ -38,6 +47,14 @@ LittleSkin 对材质格式有着严格的要求，请按照 Minecraft 官方的�
 
 此外，LittleSkin 不支持 22\*17 格式的披风，请自行将披风转换为 64\*32 格式后再上传。 
 
+### 上传材质时提示积分不足
+
+这通常是因为你的材质文件较为庞大。
+
+我们推荐你使用 [TinyPNG](https://tinypng.com/) 此类的工具压缩你的图片。这可以在保证图片质量的同时减小文件体积，进而少花费一些积分。
+
+如果依然提示积分不够，请参阅 [积分系统](/score.html#获取积分的方式) 了解获取积分的方式。
+
 ### 发生严重错误！
 
 如果你在使用 LittleSkin 时遇到了红色的「严重错误」的弹窗，请将其截图并加入 [官方用户交流群](/user-group.html) 联系站点管理员处理。
@@ -58,18 +75,24 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 ### 为什么我在网站上设置好了材质，但是在游戏中不显示 / 没更新？
 
-这是个很常见的问题。大多数情况下，这个问题是以下三个原因引起的：
+这是个很常见的问题。大多数情况下，这个问题是以下四个原因引起的：
 
 1. 你没有正确地安装和配置皮肤 Mod；
 2. 你安装的其它 Mod（如 NonUpdate）干扰了皮肤 Mod 与 LittleSkin 之间的连接；
-3. 你的材质被你的皮肤 Mod 缓存了。
+3. 你的材质被你的皮肤 Mod 缓存了；
+4. 你使用了 Alex 模型的皮肤，并且你的 Minecraft 版本低于 1.8。
 
 解决方案分别是：
 
 1. 正确安装并配置皮肤 Mod。你可以在 [新手指引 - 配置 Mod](/newbee-guide/config-mod.html) 中学习如何正确配置皮肤 Mod；
 2. 删除这些 Mod，或让它们绕过皮肤 Mod 与 LittleSkin 之间的连接；
 3. 等待几分钟后再试。如果还是没有更新，尝试清除你的皮肤 Mod 的缓存：
-    - CustomSkinLoader 的缓存位于 `.minecraft/CustomSkinLoader/caches`。
+    - CustomSkinLoader 的缓存位于 `.minecraft/CustomSkinLoader/caches`，直接删除此文件夹即可；
+4. 使用 SkinPort 加载材质，而不是 CustomSkinLoader。
+
+::: tip
+如果你在 LittleSkin 域名调整之后（2020 年 3 月后）没有手动更改过皮肤 Mod 的配置，这可能会影响到正常的加载。如果你在中国大陆，建议 [更改皮肤 Mod 的配置](/newbee-guide/config-mod.html)。
+:::
 
 如果你确定你的问题不是以上原因引起的，或者你按照以上的解决方案做了之后你的角色的材质依然没有显示或更新，请在详细阅读 [报告问题的正确姿势](/how-to-report-question.html) 后带上你的皮肤 Mod 的日志，加入 [官方用户交流群](/user-group.html) 询问，或直接购买一对一远程技术支持服务。
 
