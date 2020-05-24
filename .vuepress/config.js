@@ -49,7 +49,8 @@ module.exports = {
         algolia: {
             apiKey: process.env.ALGOLIA_APIKEY,
             indexName: 'littleskin'
-        }
+        },
+        smoothscroll: true
     },
     evergreen: true
 }
