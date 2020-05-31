@@ -50,7 +50,7 @@ module.exports = {
             apiKey: process.env.ALGOLIA_APIKEY,
             indexName: 'littleskin'
         },
-        smoothscroll: true
+        smoothScroll: true
     },
     evergreen: true
 }
