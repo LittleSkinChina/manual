@@ -1,5 +1,9 @@
 # 官方用户交流群
 
+::: warning
+如果你需要提问问题而进入用户交流群，请必须阅读“报告问题的正确姿势”或[点击这里](https://www.restent.top/2020/06/19/littleskin-how-to-report-question/)跳转到修改过的官方文章进行阅读。
+:::
+
 如果你在使用 LittleSkin 时遇到了一些你无法解决并且用户使用手册中也没有提到的问题，或者你想与其他用户一起交流，你都可以加入 LittleSkin 的官方用户交流群，与群内其他用户一起讨论。
 
 当前 LittleSkin 官方用户交流群有 QQ 群和 Telegram 交流群。
