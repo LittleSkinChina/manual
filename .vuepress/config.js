@@ -26,9 +26,9 @@ module.exports = {
                 title: '新手指引',
                 collapsable: true,
                 children: [
-                    '/newbee-guide/create-player.html',
-                    '/newbee-guide/set-textures.html',
-                    '/newbee-guide/config-mod.html'
+                    '/newbee/player.html',
+                    '/newbee/textures.html',
+                    '/newbee/mod.html'
                 ]
             },
             '/score.html',
@@ -36,13 +36,13 @@ module.exports = {
                 title: '高级功能',
                 collapsable: true,
                 children: [
-                    '/advanced-usage/api.html',
-                    '/advanced-usage/yggdrasil.html',
-                    '/advanced-usage/oauth2.html'
+                    '/advanced/api.html',
+                    '/advanced/yggdrasil.html',
+                    '/advanced/oauth2.html'
                 ]
             },
             '/faq.html',
-            ['/how-to-report-question.html', '报告问题的正确姿势'],
+            ['/report.html', '报告问题的正确姿势'],
             ['/user-group.html', '用户交流群']
         ],
         lastUpdated: '最后更新 ',

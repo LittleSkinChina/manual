@@ -24,7 +24,7 @@ LittleSkin 支持单层皮肤（大小为 64\*32 或其整数倍）、双层皮�
 
 1. 进入皮肤库，点击页面顶部菜单栏中的 「上传新皮肤」
 
-![open-page](./assets/set-textures/open-upload-page.png)
+![open-page](./assets/textures/open-upload-page.png)
 
 2. 在打开的页面中设置材质名称，选择材质类型，选择材质文件，选择是否设置为私密。   
 你可以在右侧查看你的材质的预览。   
@@ -53,11 +53,11 @@ LittleSkin 不允许上传包括但不限于如下内容的敏感材质（包括
 
 1. 进入材质详情页面，点击材质预览下方左侧的「添加至衣柜」按钮
 
-![add-to-closet](./assets/set-textures/add-to-closet.png)
+![add-to-closet](./assets/textures/add-to-closet.png)
 
 2. 在弹出的对话框中设置衣柜物品的名字，点击「确定」
 
-![set-textures-name](./assets/set-textures/set-textures-name.png)
+![set-textures-name](./assets/textures/set-textures-name.png)
 
 3. 材质就被成功添加到衣柜啦~
 添加完成后，你也可以直接在材质详情页面将材质设置到角色。
@@ -69,15 +69,15 @@ LittleSkin 不允许上传包括但不限于如下内容的敏感材质（包括
 
 1. 点击用户中心左侧菜单栏中的「我的衣柜」
 
-![open-closet-page](./assets/set-textures/open-closet-page.png)
+![open-closet-page](./assets/textures/open-closet-page.png)
 
 2. 在打开的页面的左侧上方选择材质的分类（皮肤 / 披风），选择你要使用的材质，点击右侧材质预览下方左侧的「使用」按钮
 
-![choose-textures](./assets/set-textures/choose-textures.png)
+![choose-textures](./assets/textures/choose-textures.png)
 
 3. 在弹出的窗口中选择需要设置材质的角色，单击右下角的「提交」
 
-![choose-player](./assets/set-textures/choose-player.png)
+![choose-player](./assets/textures/choose-player.png)
 
 4. 材质已经被设置到角色啦~
 
@@ -89,4 +89,4 @@ LittleSkin 不允许上传包括但不限于如下内容的敏感材质（包括
 
 在衣柜中选择「皮肤」分类，点击衣柜物品底端右侧的齿轮按钮，再点击「设为头像」即可。会自动裁剪皮肤的面部作为头像。
 
-![set-avatar](./assets/set-textures/set-avatar.png)
+![set-avatar](./assets/textures/set-avatar.png)
