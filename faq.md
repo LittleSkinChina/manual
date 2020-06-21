@@ -84,7 +84,8 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 由于 Minecraft 的材质加载机制，在多人游戏中，只有服务端启用了在线模式（`online-mode`）才可以加载材质。如果你游玩的服务器没有加载 authlib-injector 并正确配置 LittleSkin 的 Yggdrasil API，那么在服务器联机时就不会加载材质。
 
-如果你有在服务器联机中加载材质的需求，请使用皮肤 Mod 加载材质。
+如果你拥有服务器的管理权并需要加载材质，请参照 [Yggdrasil - 在服务端使用](/advanced/yggdrasil.html#在服务端使用) 加载 authlib-injector；  
+如果你有在他人的服务器（联机）中加载材质的需求，请安装皮肤 Mod 以加载材质。
 
 ### 为什么我无法使用 Universal Skin Mod 加载材质了？
 
@@ -94,7 +95,7 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 虽然可能有多种报错，但一般都是网络原因引起的，请在启动器中更换下载源后再试。
 
-如果你使用 HMCL 3，如果更换下载源后仍然报错，请手动下载 authlib-injector，将其放入 `%appdata%\.hmcl\` 中并重命名为 `authlib-injector.jar`。使用其他启动器的用户请咨询启动器作者。
+如果你使用 HMCL 3，并且更换下载源后仍然报错，请手动 [下载 authlib-injector](https://authlib-injector.yushi.moe/~download/)，将其放入 `%appdata%\.hmcl\` (Windows) 中并重命名为 `authlib-injector.jar`。使用其他启动器的用户请咨询启动器作者。
 
 ### 别人看不到我的材质？
 
