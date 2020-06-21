@@ -95,7 +95,9 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 虽然可能有多种报错，但一般都是网络原因引起的，请在启动器中更换下载源后再试。
 
-如果你使用 HMCL 3，并且更换下载源后仍然报错，请手动 [下载 authlib-injector](https://authlib-injector.yushi.moe/~download/)，将其放入 `%appdata%\.hmcl\` (Windows) 中并重命名为 `authlib-injector.jar`。使用其他启动器的用户请咨询启动器作者。
+如果你使用 HMCL 3，并且更换下载源后仍然报错，请手动下载 authlib-injector，将其放入 `%appdata%\.hmcl\` (Windows) 中并重命名为 `authlib-injector.jar`。使用其他启动器的用户请咨询启动器作者。
+
+你可以在 [https://authlib-injector.yushi.moe/~download/](https://authlib-injector.yushi.moe/~download/) 下载到最新版本的 authlib-injector。
 
 ### 别人看不到我的材质？
 
