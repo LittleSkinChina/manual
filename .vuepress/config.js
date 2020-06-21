@@ -11,7 +11,7 @@ module.exports = {
         externalLinks: { target: '_blank' }
     },
     themeConfig: {
-        docsRepo: 'tnqzh123/littleskin-manual',
+        docsRepo: 'LittleSkinChina/manual',
         docsBranch: 'master',
         editLinks: true,
         editLinkText: '帮助我们完善这个页面',
