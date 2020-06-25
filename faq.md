@@ -54,7 +54,7 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 如果你确定是误封，请加入 [官方用户交流群](/user-group.html)，联系站点管理员处理。
 
-### 皮肤库里的预览图全部都加载不了
+### 头像和皮肤库里的预览图全部都加载不了
 
 如果你在使用 macOS，请使用 [Google Chrome](https://www.google.com/chrome) 或 [Mozilla Firefox](https://www.mozilla.org/firefox/new) 访问我们的网站。
 
