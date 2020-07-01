@@ -10,7 +10,7 @@ LittleSkin 支持 OAuth 2 服务端。你可以在你的应用中集成「使用
 
 ## 文档
 
-请参阅：[Blessing Skin API 文档 - OAuth2 认证](https://bs-community.github.io/blessing-skin-api-docs/#oauth2-%E8%AE%A4%E8%AF%81)。
+请参阅：[Blessing Skin 用户手册 - Web API - OAuth2 认证](https://blessing.netlify.app/api/oauth.html)。
 
 ## 创建 OAuth 2 应用
 
