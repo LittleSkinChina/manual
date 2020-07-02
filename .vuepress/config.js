@@ -43,6 +43,7 @@ module.exports = {
             },
             '/faq.html',
             ['/report.html', '报告问题的正确姿势'],
+			['/email.html', '邮件工单'],
             ['/user-group.html', '用户交流群']
         ],
         lastUpdated: '最后更新 ',
