@@ -8,26 +8,11 @@ LittleSkin 提供 Yggdrasil 验证鉴权服务。你可以配合 [authlib-inject
 LittleSkin 的 Yggdrasil API 的地址是：
 
 ```
-# 中国大陆
-https://mcskin.littleservice.cn/api/yggdrasil
-
-# 海外
-https://littleskin.cn/api/yggdrasil
+https://littlesk.in/api/yggdrasil
 ```
 
-LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功能。在使用支持 ALI 的 authlib-injector 和启动器（如 [HMCL 3](https://www.mcbbs.net/thread-142335-1-1.html) 和 [BakaXL](https://www.mcbbs.net/thread-512144-1-1.html)）时，输入 LittleSkin 的任意页面的地址即可被识别。
+LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功能。在使用支持 ALI 的 authlib-injector 和启动器时，输入 LittleSkin 的任意页面的地址即可被识别。
 
-::: tip
-**记不住？**
-
-对于支持 ALI 的 authlib-injector 和启动器，你可以使用船新的地址：
-
-```
-https://littlesk.in/
-```
-
-该地址会指向适合你的 Yggdrasil API 地址。
-:::
 ## API 文档
 
 请参阅：[Yggdrasil 服务端技术规范](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)
