@@ -21,7 +21,7 @@ module.exports = {
         ],
         sidebar: [
             ['/', '欢迎页'],
-            ['/tos.html', '用户服务条款'],
+            ['/policies/tos.html', '用户服务条款'],
             {
                 title: '新手指引',
                 collapsable: true,
@@ -43,7 +43,7 @@ module.exports = {
             },
             '/faq.html',
             ['/report.html', '报告问题的正确姿势'],
-			['/email.html', '邮件工单'],
+			'/email.html',
             ['/user-group.html', '用户交流群']
         ],
         lastUpdated: '最后更新 ',
