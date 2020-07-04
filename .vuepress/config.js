@@ -21,7 +21,14 @@ module.exports = {
         ],
         sidebar: [
             ['/', '欢迎页'],
-            ['/policies/tos.html', '用户服务条款'],
+            {
+                title: '政策条款',
+                collapsable: true,
+                children: [
+                    ['/policies/tos.html', '用户服务条款'],
+                    '/policies/privacy.html'
+                ]
+            },
             {
                 title: '新手指引',
                 collapsable: true,
