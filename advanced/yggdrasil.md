@@ -22,7 +22,7 @@ LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功�
 请先将服务器配置文件（一般为 server.properties）中 `online-mode` 一项的值设为 `true`，然后在你的服务端的启动指令的 `-jar` 参数前添加如下参数：
 
 ```
--javaagent:{path/to/authlib-injector.jar}=https://mcskin.littleservice.cn/api/yggdrasil
+-javaagent:{path/to/authlib-injector.jar}=https://littlesk.in/api/yggdrasil
 ```
 
 其中 `{path/to/authlib-injector.jar}` 为指向 authlib-injector 的路径。
