@@ -28,13 +28,15 @@
 
 在大多数情况下，我们只会使用你的信息来提供尽可能好的服务，并不断改进我们提供的服务。我们也会使用你的信息进行数据分析和调查。
 
-部分信息将以明文的形式存储，而部分信息将在经过编码、加密或散列后存储；部分信息将存储在我们的数据库中，而部分信息将直接存储在用户的浏览器中。
+为了提供服务，我们可能会使用你的信息来生成更多信息。尽管可能可以通过我们生成的这些信息在一定程度上识别用户身份，但其并不属于隐私信息。由于服务的特殊性，我们可能会对外公开这些信息。
 
-保护用户的信息安全是我们的义务。除非经过你的允许，或 LittleSkin 与其它主体合并，或受到不可抗力的影响，我们不会主动将你的信息披露给第三方。
+部分信息将以明文的形式存储，而部分信息将在经过编码、加密或散列后存储；部分信息将存储在我们的数据库中，而部分信息将直接存储在你的浏览器中。
 
-## 第三方收集的信息
+保护用户的信息不被非法获取是我们的义务。除非经过你的允许，或 LittleSkin 与其它主体合并，或受到不可抗力的影响，我们不会主动将你的信息披露给第三方。
 
-为更好地提供服务，LittleSkin 大量引入了第三方提供的服务。这些服务可能会由其提供者收集更多的信息，且不受 LittleSkin 的控制。请查看以下内容来了解对应的主体的隐私政策：
+## 我们使用的第三方服务
+
+为更好地提供服务，LittleSkin 大量引入了第三方提供的服务。这些服务的提供者可能会收集更多信息，且不受 LittleSkin 的控制。请查看以下内容来了解对应的主体的隐私政策：
 
 - **Cloudflare**：[Privacy Policy](https://www.cloudflare.com/privacypolicy/)
     - 我们使用了 Cloudflare 的域名解析（DNS）服务、网络应用防火墙（WAF）服务、内容分发网络（CDN）服务和性能分析服务（Browser Insights）；
@@ -45,7 +47,7 @@
 - **jsDelivr**：[Privacy Policy](https://www.jsdelivr.com/privacy-policy-jsdelivr-net)
     - 我们使用了 jsDelivr 的内容分发网络（CDN）服务；
 - **Microsoft**：[隐私声明](https://privacy.microsoft.com/privacystatement)
-    - 我们使用了 Microsoft Azure 的内容分发网络（CDN）服务和 Active Directory 中的 OAuth 登录验证服务，还在站点运营工作中使用了 Microsoft 365（包括 Office 365 ProPlus 和 Exchange Online 等）服务；
+    - 我们使用了 Microsoft Azure 的内容分发网络（CDN）服务和 Active Directory 中的 OAuth 登录验证服务，还在站点运营工作中使用了 Microsoft 365（包括 Office 365 专业增强版和 Exchange Online 等）服务；
 - **Vercel**：[Privacy Policy](https://vercel.com/legal/privacy-policy)
     - 我们使用了 Vercel 的无服务器函数（Serverless Functions）服务；
 - **腾讯云**：[隐私声明](https://cloud.tencent.com/document/product/301/11470)
