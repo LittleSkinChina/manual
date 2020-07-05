@@ -1,3 +1,7 @@
+---
+sidebarDepth: 2
+---
+
 # LittleSkin 用户服务条款
 
 ## 太长不看版
