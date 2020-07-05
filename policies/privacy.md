@@ -61,6 +61,6 @@
 - **Microsoft**：[隐私声明](https://privacy.microsoft.com/privacystatement)
     - 我们使用了 Microsoft Azure 的内容分发网络（CDN）服务和 Active Directory 中的 OAuth 登录验证服务，还在站点运营工作中使用了 Microsoft 365（包括 Office 365 专业增强版和 Exchange Online 等）服务；
 - **Vercel**：[Privacy Policy](https://vercel.com/legal/privacy-policy)
-    - 我们使用了 Vercel 的域名解析服务（DNS）和无服务器函数（Serverless Functions）服务；
+    - 我们使用了 Vercel 的域名解析（DNS）服务和无服务器函数（Serverless Functions）服务；
 - **腾讯云**：[隐私声明](https://cloud.tencent.com/document/product/301/11470)
     - 我们使用了腾讯云的域名解析（DNS）服务、内容分发网络（CDN）服务和云对象存储（COS）服务，以及其旗下的 CODING 的代码托管（Git）服务和静态网站托管服务（Pages）。
