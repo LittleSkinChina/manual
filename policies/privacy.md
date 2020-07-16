@@ -50,6 +50,8 @@
 
 为更好地提供服务，LittleSkin 大量引入了第三方提供的服务。这些服务的提供者可能会收集和使用更多信息，且不受 LittleSkin 的控制。请查看以下内容来了解对应的主体的隐私政策：
 
+- **Algolia**：[Privacy Policy](https://www.algolia.com/policies/privacy/)
+    - 我们使用了 Algolia 的文档搜索服务（DocSearch）；
 - **Cloudflare**：[Privacy Policy](https://www.cloudflare.com/privacypolicy/)
     - 我们使用了 Cloudflare 的域名解析（DNS）服务、网络应用防火墙（WAF）服务、内容分发网络（CDN）服务和性能分析服务（Browser Insights）；
 - **GitHub**：[隐私声明](https://docs.github.com/github/site-policy/github-privacy-statement)
