@@ -26,6 +26,12 @@
 <strong>你只有三次请求入群的机会。</strong>如果你因为种种原因未能在三次之内通过入群验证，我们将不再接收你的加群请求。请珍惜这三次机会，确定慎重考虑、认真回答验证问题后再发送加群请求。
 :::
 
+::: tip
+为了更好地提供技术支持和疑难解答，社区技术支持组在 QQ 群内建立了社区支持机器人。你可以合理地使用这个机器人，但是请不要随意玩弄或滥用，否则可能会被取消机器人的使用资格。
+
+具体使用方法请见 [BOT 使用方法](https://littleskincommspt.github.io/commspt-bot-manual/)。
+:::
+
 ## Telegram 群组
 
 Group Link：[@littleskin](https://t.me/littleskin)
