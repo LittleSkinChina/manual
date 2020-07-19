@@ -27,9 +27,9 @@
 :::
 
 ::: tip
-为了更好地提供技术支持和疑难解答，社区技术支持组在 QQ 群内建立了社区支持机器人。你可以合理地使用这个机器人，但是请不要随意玩弄或滥用，否则可能会被取消机器人的使用资格。
+为了更好地提供技术支持和疑难解答，社区技术支持组在 QQ 群内建立了社区支持机器人。你可以合理的使用此机器人，但是请不要滥用，**否则，我们将会取消你使用机器人的资格。**
 
-具体使用方法请见 [BOT 使用方法](https://littleskincommspt.github.io/commspt-bot-manual/)。
+具体使用方法请见 [LittleSkin 社区支持机器人使用手册](https://littleskin-commspt-bot-manual.netlify.app/)。
 :::
 
 ## Telegram 群组
