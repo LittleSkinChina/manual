@@ -30,11 +30,11 @@ sidebarDepth: 2
 
 大多数情况下，这是由你的浏览器导致的。
 
-请先尝试按下 Ctrl + F5 清除本地缓存并刷新页面，如果问题仍然存在，则说明你的浏览器过时了。
+<span style="color: red;">请先尝试按下 <kbd>Ctrl</kbd><kbd>F5</kbd> 使浏览器硬性重新加载</span>，如果问题仍然存在，则说明你的浏览器过时了。
 
 很多过时的浏览器不支持 LittleSkin 使用的一些新技术，而你可能就正在使用这些过时的浏览器。你需要更新你的浏览器至最新版本。
 
-需要特别注意的是，很多中国国内发行的浏览器即使更新到最新版本，其使用的浏览器内核仍然是过时的。我们建议各位使用最新版本的 [Google Chrome](https://www.google.com/chrome) 或 [Mozilla Firefox](https://www.mozilla.org/firefox/new) 或基于 Chromium 内核的 [Microsoft Edge (Chromium)](https://aka.ms/msedge)。
+需要特别注意的是，很多中国国内发行的浏览器即使更新到最新版本，其使用的浏览器内核仍然是过时的。我们建议各位使用最新版本的 [Google Chrome](https://www.google.com/chrome) 或 [Mozilla Firefox](https://www.mozilla.org/firefox/new) 或基于 Chromium 内核的 [Microsoft Edge](https://aka.ms/msedge)。
 
 如果你将浏览器更新到最新版本后仍然无法正常显示页面，请加入我们的 [官方用户交流群](/user-group.html) 或 [发送邮件工单](/email.html)，向站点管理员反馈。
 
