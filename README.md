@@ -6,7 +6,7 @@ title: 首页
 
 请查看左侧的目录，或是使用右上角的搜索，来寻找你想要的内容。
 
-你可以在 [GitHub](https://github.com/tnqzh123/littleskin-manual) 获取到 LittleSkin 用户使用手册的所有 Markdown 源文件。
+你可以在 [GitHub](https://github.com/LittleSkinChina/manual) 获取到 LittleSkin 用户使用手册的所有 Markdown 源文件。
 
 ::: tip
 LittleSkin 使用 Blessing Skin Server 开发版本，快速的更新导致文档中所述的内容可能会落后于实际情况。如果你发现了某些文档说明的内容落后于 LittleSkin 的最新特性，请在我们的 GitHub 仓库中开 Issue 说明，或直接点击页面下方的「帮助我们完善这个页面」链接修改并发起 Pull Request。
