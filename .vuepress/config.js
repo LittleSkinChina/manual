@@ -122,7 +122,7 @@ module.exports = {
             ],
           },
           '/en/faq.html',
-          ['/en/report.html', 'How to Report Bug'],
+          ['/en/report.html', 'How to Report Bugs'],
           '/en/email.html',
           ['/en/user-group.html', 'User Group'],
         ],
