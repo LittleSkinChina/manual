@@ -31,6 +31,9 @@ module.exports = {
     editLinks: true,
     locales: {
       '/': {
+        selectText: 'Languages',
+        label: '简体中文',
+        ariaLabel: 'Languages',
         editLinkText: '帮助我们完善这个页面',
         nav: [
           { text: '返回 LittleSkin', link: 'https://littlesk.in' },
@@ -77,6 +80,9 @@ module.exports = {
         lastUpdated: '最后更新 ',
       },
       '/en/': {
+        selectText: 'Languages',
+        label: 'English',
+        ariaLabel: 'Languages',
         editLinkText: 'Help us improve this page',
         nav: [
           { text: 'Back to LittleSkin', link: 'https://littlesk.in' },
@@ -87,38 +93,38 @@ module.exports = {
           { text: 'Support Us', link: 'https://afdian.net/@tnqzh123' },
         ],
         sidebar: [
-          ['/', 'Welcome'],
+          ['/en/', 'Welcome'],
           {
             title: 'Policy',
             collapsable: true,
             children: [
-              ['/policies/tos.html', 'User Terms of Service'],
-              '/policies/privacy.html',
+              ['/en/policies/tos.html', 'User Terms of Service'],
+              '/en/policies/privacy.html',
             ],
           },
           {
             title: 'Getting Started',
             collapsable: true,
             children: [
-              '/newbee/player.html',
-              '/newbee/textures.html',
-              '/newbee/mod.html',
+              '/en/newbee/player.html',
+              '/en/newbee/textures.html',
+              '/en/newbee/mod.html',
             ],
           },
-          '/score.html',
+          '/en/score.html',
           {
             title: 'Advanced',
             collapsable: true,
             children: [
-              '/advanced/api.html',
-              '/advanced/yggdrasil.html',
-              '/advanced/oauth2.html',
+              '/en/advanced/api.html',
+              '/en/advanced/yggdrasil.html',
+              '/en/advanced/oauth2.html',
             ],
           },
-          '/faq.html',
-          ['/report.html', 'How to Report Bug'],
-          '/email.html',
-          ['/user-group.html', 'User Group'],
+          '/en/faq.html',
+          ['/en/report.html', 'How to Report Bug'],
+          '/en/email.html',
+          ['/en/user-group.html', 'User Group'],
         ],
         lastUpdated: 'Last Updated',
       },
