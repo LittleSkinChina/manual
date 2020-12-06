@@ -1,4 +1,4 @@
-# 报告问题的正确姿势
+# How to Report Bugs
 
 任何事物都不可能尽善尽美，LittleSkin 也是如此。
 
