@@ -73,7 +73,7 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 1. 正确安装并配置皮肤 Mod。你可以在 [新手指引 - 配置 Mod](/newbee/mod.html) 中学习如何正确配置皮肤 Mod；
 2. 删除这些 Mod，或让它们绕过皮肤 Mod 与 LittleSkin 之间的连接；
-3. 等待几分钟后再试。如果还是没有更新，尝试清除你的皮肤 Mod 的缓存：
+3. 等待几分钟后再试。如果还是没有更新，尝试清除你的皮肤 Mod 的缓存（即删除对应的文件夹）：
     - CustomSkinLoader 的缓存位于 `.minecraft/CustomSkinLoader/caches`；
     - SkinPort 的缓存位于 `.minecraft/cachedImages`
 4. 更换皮肤 Mod，或更换为 Steve 模型的材质：
