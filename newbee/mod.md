@@ -42,7 +42,11 @@ CustomSkinLoader 14.4 起支持通过 ExtraList 的方式添加皮肤站。你�
 
 #### 手动修改配置文件
 
-配置文件存放于 `.minecraft/CustomSkinLoader/` 目录中，仅有一个配置文件，文件名为 `CustomSkinLoader.json`。请使用记事本或者任意代码编辑器将其打开，将原有的所有内容替换成以下内容：
+配置文件存放于 `.minecraft/CustomSkinLoader/` 目录中，仅有一个配置文件，文件名为 `CustomSkinLoader.json`。
+
+你可以从 [这里](/CustomSkinLoader.json) 下载到为 LittleSkin 量身定制的配置文件，此文件的内容与下面的内容一致。你只需将此文件覆盖原有配置文件即可。
+
+你也可以使用记事本或者任意代码编辑器将其打开，将原有的所有内容替换成以下内容：
 
 ```json
 {

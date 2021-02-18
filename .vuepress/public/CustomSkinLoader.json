@@ -1,0 +1,19 @@
+{
+  "enable": true,
+  "loadlist": [
+    {
+      "name": "LittleSkin",
+      "type": "CustomSkinAPI",
+      "root": "https://mcskin.littleservice.cn/csl/"
+    },
+    {
+      "name": "Blessing Skin",
+      "type": "CustomSkinAPI",
+      "root": "https://skin.prinzeugen.net/csl/"
+    },
+    {
+      "name": "Mojang",
+      "type": "MojangAPI"
+    }
+  ]
+}
