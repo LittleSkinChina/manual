@@ -4,7 +4,7 @@ sidebarDepth: 2
 
 # LittleSkin's Terms of Service
 
-## It's too long!
+## TL;DR (Too Long; Didn’t Read)
 
 ::: warning
 This "short" version allows our users to quickly understand the content of our terms of service and does not have any actual effect. Please refer to the "Detailed Terms" section for all contents.
