@@ -2,61 +2,62 @@
 sidebarDepth: 2
 ---
 
-# LittleSkin 用户服务条款
+# LittleSkin's Terms of Service
 
-## 太长不看版
+## It's too long!
 
 ::: warning
-本浓缩版本旨在使用户快速理解本服务条款梗概，并不具备任何实际效益。所有内容请以“详细条款”部分为准。
+This "short" version allows our users to quickly understand the content of our terms of service and does not have any actual effect. Please refer to the "Detailed Terms" section for all contents.
 :::
 
-### 不要做这些
+### Don't do this
 
-- 不要发布中国大陆相关法律法规禁止的内容；
-- 不要擦边球内容
-- 不要滥用 LittleSkin。
+- Don't send anything who violate the laws and regulations of the People's Republic of China;
+- Publish anything who exploit loopholes of laws;
+- Don't abuse LittleSkin.
 
-### 免责声明
+### Disclaimer
 
-LittleSkin 不会对任何情况下造成的任何损失负责。
+LittleSkin won't be responsible for any losses caused under any circumstances.
 
-## 详细条款
+## Detailed Terms
 
-感谢使用 LittleSkin！本《服务条款》（以下简称“本条款”）是用户（以下简称“用户”或“你”）与 LittleSkin（以下简称“我们”）之间的服务条款和免责声明，约束 LittleSkin 与你之间的关系。请在使用 LittleSkin 前仔细阅读本条款，确认注册即是同意并接受本条款。
+Thank you for choosing LittleSkin! These Terms of Service (this "Agreement") are the terms of service and the disclaimer between LittleSkin's users ("users" and/or "you") and LittleSkin ("us"). These terms will constrain the relationship between LittleSkin and you. Please read this carefully before using LittleSkin. By registering or using LittleSkin, you acknowledge that you have read, understand, and agree to be bound by this Agreement.
 
-用户在使用我们提供的服务或产品的过程中应遵守本条款。若用户在使用中出现相关争议，将按照本条款解决；若存在其他附加条款，则按照附加条款解决。
+User should respect this Agreement while using the services and products provided by us. If the user has a related dispute during his use, it will be resolved in accordance with this Agreement; if there are any related additional Agreements, it will be resolved in accordance with the additional Agreements.
 
-我们保留在不通知用户的前提下，随时变更本条款及其附加条款的权利，条款变更对所有用户均生效。如果用户不接受变更后的条款，应立即停止使用 LittleSkin 并删除账号。
+We preserve our privileges to change this Agreement and additional agreements any tine without notifing the users. The Agreement applies immediately to every user. If the user does not accept the changed terms, he should immediately stop using LittleSkin and delete the account.
 
-本条款的最后更新时间请查看页面右下方的“最后更新”部分内容。
+For the release time of the last update of this Agreement, please check the "Last Updated" section at the bottom right of the page.
 
-本条款的最终解释权归 LittleSkin 所有。
+Final interpretation of this Agreement is owned by LittleSkin.
 
 ### GDPR
 
-由于 GDPR 合规性问题，LittleSkin 暂不对欧盟用户提供服务。
+Due to GDPR compliance issues, LittleSkin temporarily does not provide services to EU users.
 
-### 禁止的使用途径
+### Usage Restrictions
 
-在使用 LittleSkin 提供的服务的过程中，你不能做以下这些事：
+While you use the services provided by LittleSkin, you will not, directly or indirectly:
 
-- 发布运营地区（中国大陆）禁止的内容，包括但不限于赌博、犯罪、儿童色情、诈骗，彩票等内容；
-- 发布擦边球内容；
-- 任何运营地区（中国大陆）相关法律法规禁止的用途；
-- 其他滥用用途。
+- Publish content prohibited in our operating region (People's Republic of China), including but not limited to: crime, child pornography, fraud, lottery, etc.;
+- Publish anything who exploit loopholes of laws;
+- Oprations who violate the laws and regulations of our operating region (People's Republic of China);
+- Any of other abuse uses.
 
-LittleSkin 将会定期进行相关审查，若发现违反本条款中规定的内容，我们有权在不做任何通知的情况下，立即封禁或删除账号与对应的内容并拒绝提供任何形式的补偿，并积极配合有关部门调查。
+LittleSkin will conduct regular reviews. If we find any content that violates the provisions of this Agreement, we preserve our privileges to immediately ban or delete the account and the corresponding contents without any notice, and refuse to provide any form of compensation, and actively cooperate the investigations by relevant departments.
 
-### 服务的终止
+### End of the service
 
-我们可能会在不做任何通知的情况下，暂停或终止我们提供的服务。
+We will probably stop or terminate services provided by us without any notice.
 
-你可以在任何情况下停止使用我们提供的服务，我们也可能随时终止向你提供服务。
+You can stop using our services in any circumstances. Also, we will probably stop our service any time.
 
-### 免责声明
+### Disclaimer
 
-我们在提供服务时将会尽力尽到我们的责任和义务，但我们无法做出任何承诺。
+We will do our best to fulfill our responsibilities and obligations when providing services, but we cannot make any promises.
 
-LittleSkin 提供的服务可能会显示一些并非来自 LittleSkin 的内容。这些内容由其来源承担全部责任。我们可能会审查这些内容，但这并不表示我们必然会审查内容。
 
-我们不会，在任何情况下，以任何形式，对任何原因导致的无法访问（使用）或数据丢失进行赔偿。	
+The service provided by LittleSkin may shows some content comes from Third-Party. The source of these contents bears full responsibility. We may review the contents, but this does not mean that we will necessarily reviewall the contents.
+
+We will not, under any circumstances, in any form, compensate for any inaccessibility (use) or data loss caused by any reason.
