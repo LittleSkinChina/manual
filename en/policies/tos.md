@@ -3,7 +3,7 @@
 ## TL;DR (Too Long; Didn’t Read)
 
 ::: warning
-This "short" version allows our users to quickly understand the content of our terms of service and does not have any actual effect. Please refer to the "Detailed Terms" section for all contents.
+This "short" version allows our users to quickly understand the content of our terms of service. This version does not have any actual effect. Please refer to the "Detailed Terms" section for all contents.
 :::
 
 ### Don't do this
