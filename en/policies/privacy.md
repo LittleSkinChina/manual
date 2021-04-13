@@ -16,7 +16,7 @@ We are going to collect these informations:
 - **Some informations from Third-Parties**: We need these informations to identify our user and make analyses and instigations to provide a better service.
 - **Other informations that we have to collect**: We need to collect these informations to provide our service.
 
-In fact, you don't have provide us these informations. But in most of the time, if you don't provide it to us, we will not be able to provide you our service.
+In fact, you don't have to provide us these informations. But in most situation, if you don't provide it to us, we will not be able to provide you our service.
 
 ## How will be collect your data?
 

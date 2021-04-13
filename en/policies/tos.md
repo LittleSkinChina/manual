@@ -22,7 +22,7 @@ LittleSkin won't be responsible for any losses caused under any circumstances.
 
 ## Detailed Terms
 
-Thank you for choosing LittleSkin! These Terms of Service (this "Agreement") are the terms of service and the disclaimer between LittleSkin's users ("users" and/or "you") and LittleSkin ("us"). These terms will constrain the relationship between LittleSkin and you. Please read this carefully before using LittleSkin. By registering or using LittleSkin, you acknowledge that you have read, understand, and agree to be bound by this Agreement.
+Thank you for choosing LittleSkin! These Terms of Service (this "Agreement") are the terms of service and the disclaimer between LittleSkin's users ("users" and/or "you") and LittleSkin ("us"). These terms will constrain the relationship between LittleSkin and you. Please read this carefully before using LittleSkin. By registering or using LittleSkin, you acknowledge that you have to read, understand, and agree to be bound by this Agreement.
 
 User should respect this Agreement while using the services and products provided by us. If the user has a related dispute during his use, it will be resolved in accordance with this Agreement; if there are any related additional Agreements, it will be resolved in accordance with the additional Agreements.
 
