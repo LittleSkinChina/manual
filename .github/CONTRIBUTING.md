@@ -40,7 +40,7 @@ LittleSkin 用户使用手册使用 VuePress 构建，所以你可以使用 VueP
 
 ## 持续集成
 
-LittleSkin 用户使用手册托管于 Coding Pages，使用 Coding 的持续集成功能进行自动化的构建和部署。当本仓库的 `master` 分支有新提交时，Coding 会自动拉取代码、构建并部署到 Coding Pages。
+LittleSkin 用户使用手册托管于 Vercel，使用 Vercel 的持续集成功能进行自动化的构建和部署。当本仓库的 `master` 分支有新提交时，Vercel 会自动拉取代码、构建并部署。
 
 ## 结语
 
