@@ -1,42 +1,42 @@
-# 创建角色
+# Add a new player
 
-LittleSkin 支持的皮肤 Mod 都是通过角色名来识别玩家身份并加载材质的，所以你需要先创建你的游戏角色才能在 Minecraft 中加载皮肤。
+Mods supported by LittleSkin are using the username to identify the player and load the skin. So you need to create your own player to load the skin in Minecraft.
 
 ::: warning
-创建一个角色需要花费 100 积分，而删除角色时会返还积分。   
-在创建角色前请确保你的积分足够，否则你将无法创建角色。
+You need to spend 100 score to add a new player, it will be pay back to you when you delete the player.    
+Make sure you have enough score before you add the player, otherwise you won't be able to add one.
 :::
 
-你可以在用户中心的「角色管理」页面创建和管理你的角色：
+You can add and manage your players by using the「Players」page in the user center:
 
-1. 点击用户中心左侧菜单栏中的「角色管理」，在打开的页面中点击「添加新角色」：
+1. Click on「Players」in the menu of user center, click on「Add new player」:
 
 ![open-page](./assets/player/open-page.png)
 
-2. 在弹出的窗口中输入你的角色名，点击「提交」按钮：
+2. Type in your username in the popup window, and click on「OK」:
 
 ::: tip
-角色名可使用拉丁字母（英文字母）、数字、下划线以及中日韩统一表意文字（中文、日文、韩文）；   
-角色名最短要求 2 字符，最长不超过 16 字符。
+You can use letters, numbers, underscores and CJK Unified Ideographs (Chinese, Japanese and Korean) in your player name.  
+The player name should contain minimum 2 letters and maximum 16 letters.
 :::
 
 ![input-player-name](./assets/player/input-player-name.png)
     
-3. 你的第一个角色就创建好啦~   
-如果以后你还想创建更多角色，也可以按照这份文档中所述的方法操作。
+3. And you've successfully created your first player!   
+If you want to create more players, you can also use the ways described in this documentation.
 
-## 绑定正版角色
+## Bind a Mojang Account
 
-如果你拥有正版 Minecraft，你可以将其绑定至你的 LittleSkin 账号。
+If you have a paid version of Minecraft, you can bind it to your LittleSkin account.
 
-绑定正版 Minecraft 账号要求你的 LittleSkin 账号的邮箱和你的 Mojang 账号的邮箱相同。你可以在用户中心的公告栏下方找到「正版验证」一栏（如果没有这一栏，请尝试刷新页面），在其中输入密码后即可完成绑定。
+Binding your Minecraft account asks you to have the same email account in your LittleSkin account and your Mojang account. You can find「Bind Your Mojang Account」in the dashboard under the Announcement (if you cannot find it, please refresh your page), enter your password and it will be bind.
 
-绑定后会自动在你的账号中添加和你的正版 Minecraft 账号同名的角色（如果站内已有同名角色，则该角色将会被强制转移至你的账户下），并可以获得积分奖励。
+After the binding, we will automatically add an account using the same username as your paid Minecraft account (if there's a player using this username, that player will be transferred to your account), and you can get scores rewards by binding your account.
 
-每个 LittleSkin 账户只能绑定一个正版 Minecraft 账号。
+Each LittleSkin account can only bind one Minecraft account.
 
 ::: tip
-LittleSkin 通过 Mojang 官方提供的 Yggdrasil 验证鉴权系统进行正版验证，这也是官方启动器进行正版验证的方式。
+LittleSKin use Mojang's Yggdrasil authentication system to verify your account, and it's also how Minecraft's official game launcher verify your account.
 
-你输入的密码只会在 LittleSkin 的服务器的内存中短暂地保存，完成正版验证后就会被删除。LittleSkin 不会记录密码或将密码提供给第三方，你可以放心输入密码。
+Your password will only be saved in LittleSkin's server's memory for a short time, LittleSkin won't save your password or provide it to third-parties, so you can enter the password with confidence.
 :::
