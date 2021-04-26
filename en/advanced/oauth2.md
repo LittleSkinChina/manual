@@ -1,23 +1,23 @@
 # OAuth 2
 
 ::: tip
-这篇文档是面向开发者的，普通用户可能无法理解。
+This document is for developers, and ordinary users may not be able to understand it.
 
-如果你看不懂这个页面在说些什么，直接关闭这篇文档或者浏览其它文档即可，忽略这部分内容不会影响你正常使用 LittleSkin 的基础功能。
+If you cannot understand what the page is talking about, just close it and read other documentation. Ignoring this part of the contents will not affect your use of the basic functions of LittleSkin.
 :::
 
-LittleSkin 支持 OAuth 2 服务端。你可以在你的应用中集成「使用 LittleSkin 账户登录」这样的功能。
+LittleSkin supports the OAuth2 server. You can integrate functions like "Log in with LittleSkin Account" in your application.
 
-## 文档
+## Documentation
 
-请参阅：[Blessing Skin 用户手册 - Web API - OAuth2 认证](https://blessing.netlify.app/api/oauth.html)。
+Please refer to [Blessing Skin 用户手册 - Web API - OAuth2 认证](https://blessing.netlify.app/api/oauth.html)(There's no English translation yet).
 
-## 创建 OAuth 2 应用
+## Create OAuth 2 Application
 
-在你的网站中集成 OAuth 2 之前，你需要先在 LittleSkin 创建应用并获取客户端 ID 和客户端 Secret。
+Before integrating OAuth 2 into your website, you need to create an application in LittleSkin to get the client ID and Client Secret.
 
-1. 打开 OAuth 2 应用管理页面，你可以在侧边栏的 开发者 -> OAuth2 应用 找到这个页面的链接。点击「创建应用」。
+1. Open the OAuth 2 application management page, you can find the link in "Advanced", "OAuth2 Apps". Click on "Create New App".
 ![open-page](./assets/oauth2/open-page.png)
-2. 输入你的应用的名称和回调 URL，点击「提交」。
+2. Enter your App Name and Callback URL, click on "OK".
 ![create-app](./assets/oauth2/create-app.png)
-3. 你的 OAuth 2 应用就创建好啦，你可以在页面中找到你的 OAuth 2 应用的客户端 ID 和客户端 Secret。
+3. You've successfully created your OAuth 2 Application! You can find your OAuth 2 client ID and Client Secret on the page.

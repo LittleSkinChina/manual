@@ -36,7 +36,7 @@ If you are unable to load the texture from LittleSkin due to a conflict with a p
 
 #### ExtraList
 
-CustomSkinLoader supports adding the skin library using ExtraList from version 14.4. You can find LittleSkin's ExtraList file at「Generate Config」and put it under the file path `.minecraft/CustomSkinLoader/ExtraList/`.
+CustomSkinLoader supports adding the skin library using ExtraList from version 14.4. You can find LittleSkin's ExtraList file at “Generate Config” and put it under the file path `.minecraft/CustomSkinLoader/ExtraList/`.
 
 After the first successful launch of the game after you install the mod, the ExtraList file of CustomSkinLoader will be automatically deleted, this is normal. If everything's okay, LittleSkin has been added to the top of the CustomSkinLoader loading list.
 

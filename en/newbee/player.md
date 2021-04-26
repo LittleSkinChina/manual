@@ -7,13 +7,13 @@ You need to spend 100 scores to add a new player, it will be payback to you when
 Make sure you have enough score before you add the player, otherwise you won't be able to add one.
 :::
 
-You can add and manage your players by using the「Players」page in the user center:
+You can add and manage your players by using the “Players“ page in the user center:
 
-1. Click on「Players」in the menu of user center, click on「Add new player」:
+1. Click on “Players“ in the menu of user center, click on “Add new player“ :
 
 ![open-page](./assets/player/open-page.png)
 
-2. Type in your username in the popup window, and click on「OK」:
+2. Type in your username in the popup window, and click on “OK“ :
 
 ::: tip
 You can use letters, numbers, underscores and CJK Unified Ideographs (Chinese, Japanese and Korean) in your player name.  
@@ -29,7 +29,7 @@ If you want to create more players, you can also use the ways described in this 
 
 If you have a paid version of Minecraft, you can bind it to your LittleSkin account.
 
-Binding your Minecraft account asks you to have the same email account in your LittleSkin account and your Mojang account. You can find「Bind Your Mojang Account」in the dashboard under the Announcement (if you cannot find it, please refresh your page), enter your password and it will be bind.
+Binding your Minecraft account asks you to have the same email account in your LittleSkin account and your Mojang account. You can find “Bind Your Mojang Account“ in the dashboard under the Announcement (if you cannot find it, please refresh your page), enter your password and it will be bind.
 
 After the binding, we will automatically add an account using the same username as your paid Minecraft account (if a player is using this username, that player will be transferred to your account), and you can get scores rewards by binding your account.
 

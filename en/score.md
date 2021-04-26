@@ -47,7 +47,7 @@ Every new user will get 1000 scores.
 
 ### Everyday Sign
 
-Every day, by clicking the「Sign」button in the user center, you can get points ranging from 10 to 100 randomly. You can only sign in once a day, and the sign-in opportunities on the day will not accumulate to the next day. The sign-in points rewards may be temporarily adjusted during site activities.
+Every day, by clicking the “Sign“ button in the user center, you can get points ranging from 10 to 100 randomly. You can only sign in once a day, and the sign-in opportunities on the day will not accumulate to the next day. The sign-in points rewards may be temporarily adjusted during site activities.
 
 ### Public textures have been added by someone else
 
