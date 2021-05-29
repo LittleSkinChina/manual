@@ -1,0 +1,21 @@
+name: Deploy to Vercel
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Deploy
+      uses: amondnet/vercel-action@v19.0.1+1
+      if: github.event_name == 'push'
+      with:
+        vercel-token: ${{ secrets.VERCEL_TOKEN }}
+        vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+        vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+        vercel-args: '--prod'
+        working-directory: ./
+        github-comment: false
