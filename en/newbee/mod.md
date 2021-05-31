@@ -17,7 +17,7 @@ You should only use one skin loader mod. Do not install multiple skin mods, othe
 :::
 
 ::: warning
-Except for SkinPort, you should only use a skin mod or Yggdrasil. Do not enable both at the same time, otherwise, the skin might not load normally.
+Except for SkinPort, you should only use either one skin mod or authlib-injector (Yggdrasil API). DO NOT use multiple methods or mods at the same time, otherwise, the skin might not load normally.
 :::
 
 ## CustomSkinLoader
@@ -41,6 +41,10 @@ CustomSkinLoader supports adding the skin library using ExtraList from version 1
 After the first successful launch of the game after you install the mod, the ExtraList file of CustomSkinLoader will be automatically deleted, this is normal. If everything's okay, LittleSkin has been added to the top of the CustomSkinLoader loading list.
 
 #### Modify manually the configuration file
+
+::: tips
+If you are not located in Mainland China, we suggest you to use the Global CDN provided by Cloudflare. Just replace mcskin.littleservice.cn to littleskin.cn, so that you can get better experience.
+:::
 
 The configuration file is under `.minecraft/CustomSkinLoader/`, and there's only one configuration file called `CustomSkinLoader.json`. Open it with any editor and replace the contents inside with:
 

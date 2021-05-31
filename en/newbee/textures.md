@@ -35,7 +35,7 @@ You are not allowed to upload these and other sensitive types of textures (inclu
 
 - **High-Definition** pornographic sensitive textures
 - Politically sensitive textures
-- Any textures that violates the laws of Mainland China, Hong Kong Special Administrative Region and the United States
+- Any textures that violates the laws of Mainland China, Hong Kong S.A.R. and the United States
 
 For these textures, you have to make them private while uploading them. Otherwise, if we find any of these textures, they will be deleted and you will be banned by LittleSkin forever.
 :::

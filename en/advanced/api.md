@@ -1,7 +1,7 @@
 # Blessing Skin API
 
 ::: tip
-This document is for developers, and normal users may not be able to understand it.
+This document is for developers, and non-professional users may not be able to understand it.
 
 If you cannot understand what the page is talking about, just close it and read other documentation. Ignoring this part of the contents will not affect your use of the basic functions of LittleSkin.
 :::
