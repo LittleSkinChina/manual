@@ -1,65 +1,68 @@
 # Scores
 
 ::: tip
-本文所述内容仅供参考，具体细则请以站内标注及站点管理员解释为准。
+The content described in this article is for reference only. Please refer to the site's annotations and the site administrator's interpretation of specific rules.
 :::
 
-积分系统是 LittleSkin 的一项重要机制，相当于现实中的货币系统。
+The scores system is an important mechanism of LittleSkin, which is equivalent to the currency system in reality.
 
-你在 LittleSkin 进行上传材质和收藏材质等操作以及参与一些站点活动时需要消耗一定的积分；而你可以通过签到和参与站点活动等方式获得积分。
+You need to consume certain scores when you upload or add textures in LittleSkin or participate in some site activities; you can earn scores by signing in and participating in site activities.
 
-## 消耗积分的场景
+## When you consume scores.
 
-### 上传材质 
-上传材质需要消耗积分。
+### Uploading textures 
+Upload textures will cost you some scores.
 
-对于公开材质，每 KB 存储空间需要花费 1 积分；对于私密材质，每 KB 存储空间需要花费 20 积分。
+For public textures, every KB of storage will cost you 1 score. And for private textures, every KB of storage will cost you 20 scores.
 
 ::: warning
-材质上传页面显示的预估积分消耗仅供参考，实际积分消耗将按材质文件的实际大小计算。
+The estimated score consumption displayed on the uploading page is for reference only, and the actual score consumption will be calculated based on the actual size of the texture file.
 :::
 
-### 收藏材质到衣柜
+### Add textures to closet
 
-每个衣柜收藏需要花费 10 积分，取消收藏后积分会返还。
+Add a texture to the closet will cost you 10 scores, and it will be paid back when you delete it.
 
-### 举报材质
+### Report a texture
 
-为了防止恶意举报，在举报材质时，需要先扣除 100 积分作为抵押积分。
-当被举报的材质被认定违规后，抵押积分将会返还，并且你可以获得额外的积分奖励。但如果被举报的材质未被认定违规，则抵押积分不予返还。
+To prevent malicious reports, when reporting textures, 100 scores will be removed as a mortgage.
 
-### 公开材质改为私密材质
+If the texture is illegal, these scores will be paid back to you, and you will also get score rewards. Otherwise, it will not be paid back.
 
-如果你将你上传的公开材质更改为了私密材质，那么需要扣除上传私密材质所需的积分。
+### Make a public texture private.
 
-### 站点活动
+If you make your public texture private, then the scores needed for private texture will be removed.
 
-参与一些站点活动（如积分抽奖）时可能需要消耗一定的积分。
+### Site activities
 
-##  获取积分的方式
+Participating in some site activities (such as lottery) may require certain scores consumption.
 
-### 新用户初始积分
 
-新用户注册后即拥有 1000 初始积分。
 
-### 每日签到
+##  Getting scores
 
-每日 0 时后，点击用户中心首页中的「签到」按钮，可随机获得 10~100 不等的积分。每日只能签到一次，当日的签到机会不累计至次日。在站点活动时可能会临时调整签到积分奖励。
+### Initial points for new users
 
-### 公开材质被收藏
+Every new user will get 1000 scores.
 
-你上传的公开材质每被收藏一次，你就会获得 10 积分。
+### Everyday Sign
 
-如果被取消收藏，则奖励积分将会被收回。
+Every day, by clicking the “Sign“ button in the user center, you can get points ranging from 10 to 100 randomly. You can only sign in once a day, and the sign-in opportunities on the day will not accumulate to the next day. The sign-in points rewards may be temporarily adjusted during site activities.
 
-### 私密材质改为公开材质
+### Public textures have been added by someone else
 
-如果你将你上传的私密材质更改为了公开材质，在上传时多扣除的积分将会被返还。
+When the public textures that you uploaded have been added to the closet of someone else, you will get 10 scores.
 
-### 举报材质
+The points will be removed if other users removed the texture.
 
-如果你举报的材质被确认违规，你将获得 1000 奖励积分。
+### Make your private texture public
 
-### 站点活动
+If you make your private texture public, then the scores needed for private texture will be added to your account.
 
-站点活动时可能会发放大量积分，活动期间注册的新用户的初始积分和每日签到可获得的积分上限也将有所提高。
+### Report a texture
+
+If the texture that you reported is illegal, then you will get 1000 scores rewards.
+
+### Site activities
+
+A large number of points may be issued during site activities, and the initial points of new users who register during the event and the upper limit of points that can be obtained for daily check-in will also be increased.

@@ -75,7 +75,7 @@ LittleSkin 不允许上传包括但不限于如下内容的敏感材质（包括
 
 ![choose-textures](./assets/textures/choose-textures.png)
 
-3. 在弹出的窗口中选择需要设置材质的角色，单击右下角的「提交」
+3. 在弹出的窗口中选择需要设置材质的角色
 
 ![choose-player](./assets/textures/choose-player.png)
 

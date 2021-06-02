@@ -1,17 +1,17 @@
 # Blessing Skin API
 
 ::: tip
-这篇文档是面向开发者的，普通用户可能无法理解。
+This document is for developers, and non-professional users may not be able to understand it.
 
-如果你看不懂这个页面在说些什么，直接关闭这篇文档或者浏览其它文档即可，忽略这部分内容不会影响你正常使用 LittleSkin 的基础功能。
+If you cannot understand what the page is talking about, just close it and read other documentation. Ignoring this part of the contents will not affect your use of the basic functions of LittleSkin.
 :::
 
 ::: warning
-当前 Blessing Skin API 正处于试验阶段，API 不稳定并随时可能发生破坏性变更，敬请留意。
+Blessing Skin API is under experimentation, it's not stable and will probably have destructive changes at any time, so stay tuned.
 :::
 
-LittleSkin 使用 Blessing Skin 最新开发版本，支持通过 Blessing Skin API 使用 LittleSkin 的各种功能，包括但不限于获取角色信息、更改角色材质等。
+LittleSkin is using the newest Blessing Skin development version and supports accessing different functions by using Blessing Skin API. It includes but not limited to obtaining player's information, changing player's textures, etc.
 
-## API 文档
+## API Documentation
 
-按理来说，LittleSkin 的 Blessing Skin API 与原版 Blessing Skin API 完全一致，你可以直接参考 Blessing Skin API 的文档：[Blessing Skin 用户手册 - Web API](https://blessing.netlify.app/api/)
+Theoretically, LittlsSkin's Blessing Skin API is the same as the original Blessing Skin API, you can directly visit Blessing Skin API's documentation: [Blessing Skin Manual - Web API](https://blessing.netlify.app/api/) (There's no English version available for now).
