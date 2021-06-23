@@ -1,44 +1,44 @@
 # Email Tickets
 
-如果你想获取技术支持，但不想加入我们的官方用户交流群，或者发现了什么不可告人的不得了的东西（比如严重的 Bug、漏洞）想要告诉运营组，又或者想要与运营组取得联系，可以通过邮件发送工单。
+If you want to get technical support, but you don't want to join our official user group, or you find something bad (like serious bugs or loopholes), or you want to connect with Staff, you can send an Email Ticket.
 
-## 对外支持邮箱
+## External Support Email
 
-邮箱地址：[support@littlesk.in](mailto:support@littlesk.in)
+Email address：[support@littlesk.in](mailto:support@littlesk.in)
 
-发送到这个邮箱的邮件都会且只会被运营组看到。我们会尽快回复我们认为需要回复的邮件。所有的回复都将由运营组成员使用各自的工作邮箱（域名为 `littlesk.in`）发出。
+Only the operating staffs will be able to see the mails sent to this address. We will reply as soon as possible if we consider it's needed. All replies will be send by the staffs using their email address (with domain `littlesk.in`)
 
-我们建议你通过你在 LittleSkin 绑定的邮箱发送邮件，这有助于我们确认用户身份以提高效率。
+We advise you send emails with Email address which you used in LittleSkin, this will help us to verify user's identity for improve efficiency.
 
 ::: tip
-对于技术支持类邮件，我们可能会引入社区技术支持。社区技术支持并非由运营组提供，但相关人员是由运营组钦定的。社区技术支持人员的邮箱的域名是 `commspt.littlesk.in`。
+For technical support, we might introduce Community Support. Our Community Support are not provide by Staff, but its members are appointed by Staff. Communtiy support member's work email domain is `commspt.littlesk.in`.
 :::
 
 ::: warning
-收到来自 LittleSkin 运营组或社区技术支持人员的邮件时，请认真核对发件邮箱的域名（即邮箱地址中 `@` 之后的部分）。如果邮箱域名不是 `littlesk.in` 或 `commspt.littlesk.in`，则说明这封邮件并非由 LittleSkin 运营组成员或社区技术支持人员发送，其内容并不可靠，请谨慎对待。
+When you received an email from LittleSkin Staff or Community Support member, please verify the email domain carefully (The part after `@` of Email address). If it isn't `littlesk.in` or `commspt.littlesk.in`, it means that it's not sent by LiittleSkin operating staffs or Community Support members, and it's content are unreliable, please treat it cautionsly.
 :::
 
 ::: danger
-请注意，无论是运营组成员还是社区技术支持人员，在任何情况下，我们都不会要求你提供你在任何网站的密码或其它登录凭证。如果有人要求你提供密码、验证码等信息，请立即停止交流，并通过我们的对外支持邮箱向我们报告。
+Please pay attention, neither operating staffs nor Community Support members will never ask you to provide your other websites' password or login credentials. If someone let you provide your password, verification code or others security infomation, please stop communication right now, and report to us by sending email to our external support email.
 :::
 
-## 规则
+## Rules
 
-电子邮件相比即时通讯要正式许多。为了提高效率和保证交流双方心平气和，在发送邮件时，请务必遵守以下几点规则：
+Compare with instant messaging, Email is much more formal than it. In order to improve efficiency and guarantee communication parties are peace of mind, when you sending email, please must follow these rules:
 
-- 在提问前，请先认真完整阅读并理解 [报告问题的正确姿势](/report.html)；
-- 在邮件标题中用简洁明了的语言说明你的问题或需求的大致情况；
-- 在邮件正文中尽量详细地描述你遇到的问题或需求，并附上对应的日志或其它资料；
-- 保持良好的礼貌和尊重；
-- 尽量减少不必要的邮件；
-- 耐心等待回复，不要频繁催促。
+- Before asking, please serious and complete reading [How to report problems](/report.html), also understanding it;
+- Concise and clear instructions your problems or demand in your email's title;
+- Detailed Description your problems or demand in email's text, and attach corresponding logs or other documents;
+- Keep good manners and respect;
+- Try to cut back emails that unnecessary;
+- Be patient with waiting reply, don't urge frequently.
 
-在回复我们的邮件时，请将邮件抄送（CC）到我们的对外支持邮箱，以便于我们记录对话串。
+When you reply our emails, please CC your email to our external support email, in order to let us recording dialogue string.
 
-## 时效性说明
+## Timeliness description
 
-电子邮件不是即时通讯。尽管电子邮件相比即时通讯来说，效率可能会更高，但其工作量也更大，处理速度会更慢。所有的邮件一般都会在三天到一周内回复，但我们认为没有必要回复的邮件将不会得到回复。
+Emails aren't instant messaging. Although Emails are higher efficiency than instant messaging, but its workloads are much bigger, processing speed are much slower. All emails will reply in three days to one week, but we won't reply emails that we think it's unnecessary to reply.
 
-发出邮件后，请耐心等待回复。如果长时间未收到回复，可以再发送一封邮件询问。但请不要在短时间内频繁发件催促，否则你的邮箱地址可能会被拉黑。
+After sending email, please be patient with waiting for reply. If you don't receive any reply for a long time, you can send one more email to ask. But please don't send emails frequently to urge in a short time, or your Email address will be pull black.
 
-如果你需要高时效性的技术支持，请加入我们的 [官方用户交流群](/user-group.html) 来提问，而不是发送邮件工单。
+If you need high timeliness technical support, please join our [Official User Group](/user-group.html) for help, instead of sending Email Ticket.
