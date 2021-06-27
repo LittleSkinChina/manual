@@ -17,7 +17,7 @@ module.exports = {
         editLinkText: '帮助我们完善这个页面',
         nav: [
             { text: '返回 LittleSkin', link: 'https://littlesk.in' },
-            { text: '社区支持机器人', link: 'https://littleskin-commspt-bot-manual.netlify.app' },
+            { text: '社区支持机器人', link: 'https://bot-manual.restent.win' },
             { text: '捐助支持', link: 'https://afdian.net/@tnqzh123' }
         ],
         sidebar: [
