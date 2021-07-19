@@ -72,6 +72,14 @@ LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功�
 
 5. 设置完成啦！你可以启动游戏了。
 
+::: tip 提示
+对于 PCL2，你可能需要在 `版本设置` → `设置` → `服务器选项` 中手动配置 Yggdrasil 服务器地址
+
+登录方式：`第三方登录：Authlib-Injector`
+认证服务器：`https://mcskin.littleservice.cn/api/yggdrasil`
+注册链接：`https://mcskin.littleservice.cn/auth/register`
+服务器名称：`LittleSkin`
+:::
 
 ## 参考链接
 
