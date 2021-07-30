@@ -14,11 +14,11 @@ sidebarDepth: 2
 
 LittleSkin 目前有 3 个服务域名，分别是 `mcskin.littleservice.cn`、`littleskin.cn` 和 `littlesk.in`。
 
-- `mcskin.littleservice.cn`：使用腾讯云内容分发网络，加速区域为中国大陆，对中国大陆的用户友好；
-- `littleskin.cn`：使用 Cloudflare CDN，加速区域为全球，对非中国大陆用户友好；
-- `littlesk.in`：托管于 Vercel，根据请求 IP 的地理位置将请求重定向至以上两个域名之一。
+- `mcskin.littleservice.cn`：加速区域为中国大陆，对中国大陆的用户友好；
+- `littleskin.cn`：加速区域为中国大陆以外地区，对非中国大陆用户友好；
+- `littlesk.in`：根据请求 IP 的地理位置将请求重定向至以上两个域名之一。
 
-在此用户手册中，会多次出现域名相关的内容，请根据以上的介绍，选择合适的域名。如果你使用的域名不合适，则可能导致资源加载失败，速度缓慢等情况。
+在此用户手册中，会多次出现域名相关的内容，请根据以上的介绍，选择合适的域名。如果你使用的域名不合适，则可能导致资源加载失败、速度缓慢等情况。
 
 ### 收不到验证邮件？
 
@@ -42,13 +42,13 @@ LittleSkin 目前有 3 个服务域名，分别是 `mcskin.littleservice.cn`、`
 请确保您在 LittleSkin 使用的邮箱与您的正版账号的邮箱一致，如不一致，请至个人资料页面更改你的邮箱。
 
 对于 Microsoft 账号用户：  
-截至目前，正版验证插件暂不支持 Microsoft 账号，但我们会在将来逐步支持。
+截至目前，正版验证功能暂不支持 Microsoft 账号，但我们会在将来逐步支持。
 
 ### 无法正常显示某些页面 / 图片？
 
-大多数情况下，这是由你的浏览器导致的，除非你使用了错误的域名或发生了其他问题。关于域名问题，请查看 [我该使用哪个域名？](#我该使用哪个域名)
+大多数情况下，这是由你的浏览器导致的。不正确地使用域名也会导致这种问题，关于这部分内容，请查看 [我该使用哪个域名？](#我该使用哪个域名)。
 
-请先尝试按下 Ctrl + F5 清除本地缓存并刷新页面，如果问题仍然存在，则说明你的浏览器过时了。
+在确定域名无误的情况下，请先尝试按下 Ctrl + F5 清除本地缓存并刷新页面，如果问题仍然存在，则说明你的浏览器过时了。
 
 很多过时的浏览器不支持 LittleSkin 使用的一些新技术，而你可能就正在使用这些过时的浏览器。你需要更新你的浏览器至最新版本。
 
@@ -94,8 +94,8 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 1. 正确安装并配置皮肤 Mod。你可以在 [新手指引 - 配置 Mod](/newbee/mod.html) 中学习如何正确配置皮肤 Mod；
 2. 删除这些 Mod，或让它们绕过皮肤 Mod 与 LittleSkin 之间的连接；
 3. 等待几分钟后再试。如果还是没有更新，尝试清除你的皮肤 Mod 的缓存，即删除对应的文件夹：
-    - CustomSkinLoader 的缓存位于 `.minecraft/CustomSkinLoader/caches`；
-    - SkinPort 的缓存位于 `.minecraft/cachedImages`
+    - CustomSkinLoader 的缓存文件夹为 `.minecraft/CustomSkinLoader/caches`；
+    - SkinPort 的缓存文件夹为 `.minecraft/cachedImages`
 4. 更换皮肤 Mod，或更换为 Steve 模型的材质：
     - 对于 1.7.10，请使用 SkinPort 加载材质；
     - 对于更低版本，目前无解，请更换为 Steve 模型的皮肤。
