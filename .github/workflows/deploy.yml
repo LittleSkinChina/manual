@@ -7,6 +7,7 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     env: 
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: true
       VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
       VELCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
       VERCEL_PROJECT_ID: ${{ secrets.VERCEL_ORG_ID }}
