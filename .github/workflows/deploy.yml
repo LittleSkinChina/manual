@@ -15,7 +15,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Deploy
-      uses: amondnet/vercel-action@v19.0.1+1
+      uses: amondnet/vercel-action@v20.0.0
       if: github.event_name == 'push'
       with:
         vercel-token: VERCEL_TOKEN
