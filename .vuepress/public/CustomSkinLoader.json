@@ -1,0 +1,14 @@
+{
+  "enable": true,
+  "loadlist": [
+    {
+      "name": "LittleSkin China",
+      "type": "CustomSkinAPI",
+      "root": "https://mcskin.littleservice.cn/csl/"
+    },
+    {
+      "name": "Mojang",
+      "type": "MojangAPI"
+    }
+  ]
+}
