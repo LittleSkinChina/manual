@@ -8,9 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     env: 
       ACTIONS_ALLOW_UNSECURE_COMMANDS: true
-      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_ORG_ID }}
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
@@ -18,9 +15,9 @@ jobs:
       uses: amondnet/vercel-action@v20.0.0
       if: github.event_name == 'push'
       with:
-        vercel-token: VERCEL_TOKEN
-        vercel-org-id: VERCEL_ORG_ID
-        vercel-project-id: VERCEL_PROJECT_ID
+        vercel-token: ${{ secrets.VERCEL_TOKEN }}
+        vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+        vercel-project-id: ${{ secrets.VERCEL_ORG_ID }}
         vercel-args: '--prod'
         working-directory: ./
         github-comment: false
