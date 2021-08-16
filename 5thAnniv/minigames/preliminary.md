@@ -24,7 +24,7 @@
 
 请提前至少五分钟进入游戏服务器。游戏开始前，请先将主手上的物品切换到羊羊大炮（物品栏第一位），将羊羊发射到大厅左侧的附魔台上，以确认参与比赛，否则无法进入比赛。
 
-![Join](assets/preliminary/join.png)
+![Join](./assets/preliminary/join.png)
 
 ### 单场游戏时长
 
@@ -44,7 +44,7 @@
 
 连续发射羊羊需要冷却，冷却时间将在经验栏显示；多次使用芭蕉扇需要冷却，芭蕉扇可使用的次数将显示为等级，冷却时间将在经验栏显示。
 
-![ShortCut Bar](assets/preliminary/bar.png)
+![ShortCut Bar](./assets/preliminary/bar.png)
 
 - 第一格物品：羊羊大炮
   - 右键能够发射神奇羊羊，是你参战的主要武器；  
@@ -53,7 +53,7 @@
 
 在游戏开始前，玩家可通过踩上大厅中不同颜色的混凝土块，选择不同属性的羊羊。
 
-![Select](assets/preliminary/select.png)
+![Select](./assets/preliminary/select.png)
 
 ### 羊羊属性
 

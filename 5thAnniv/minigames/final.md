@@ -22,13 +22,13 @@
 
 站上游戏大厅中代表各队伍的颜色的区域即可加入对应的队伍。
 
-![Team](assets/final/team.png)
+![Team](./assets/final/team.png)
 
 ### 获胜方法
 
 达成 Bingo 即可获胜：即在集齐在 Bingo Board 上的一排、一列或对角线上的 5 个物品。
 
-![Bingo](assets/final/bingo.jpg)
+![Bingo](./assets/final/bingo.jpg)
 
 最先达成 Bingo 的团队即为最终优胜团队。
 
@@ -38,7 +38,7 @@
 
 游戏开始时，Bingo Board 上会生成 25 个随机物品（即 Bingo 物品），并给予你 Bingo Board（左手）和石制工具（快捷栏）。
 
-![Game](assets/final/hand.png)
+![Game](./assets/final/hand.png)
 
 你需要收集这些物品，达成 Bingo 以取得胜利。
 

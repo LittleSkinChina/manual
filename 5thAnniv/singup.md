@@ -14,7 +14,7 @@
 
 请点击以下链接， 或扫描以下二维码，填写报名问卷：https://wj.qq.com/s2/8866172/548a
 
-![QR Code](assets/singup.png)
+![QR Code](./assets/singup.png)
 
 报名信息提交后无法更改，所以请认真填写报名问卷，确认信息无误后再提交。
 

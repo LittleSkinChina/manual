@@ -22,7 +22,7 @@
 
 玩家需要在 30 秒内走入中间自己的队伍的颜色的区域，以选择队伍。
 
-![Team](assets/quaterfinal/team.jpg)
+![Team](./assets/quaterfinal/team.jpg)
 
 ::: danger
 请注意选择自己的队伍，一旦进入队伍就不能退出。
@@ -32,11 +32,11 @@
 
 游戏进入准备阶段后。请手持你喜欢的一个法杖并右键它。选择后它将会出现在墙上，表示你已选择法杖。
 
-![Select](assets/quaterfinal/select.jpg)
+![Select](./assets/quaterfinal/select.jpg)
 
 选择完法杖后，请打开背包，点击第三行第一个物品进行准备。
 
-![Ready](assets/quaterfinal/ready.jpg)
+![Ready](./assets/quaterfinal/ready.jpg)
 
 所有选手都准备完成或倒计时结束时，比赛将自动开始。
 
@@ -54,25 +54,23 @@
 
 地图上将随机出现魔灵石块，选手需抢夺并持有魔灵石以得分。
 
-![Lapis](assets/quaterfinal/lapis.jpg)
+![Lapis](./assets/quaterfinal/lapis.jpg)
 
 在进入服务器后，你可以图书馆（出生点处）了解游戏详情，也可以在大厅后面的墙选择一个法杖与其他玩家进行试玩，，还可以点击背包第一行第九格的物品进行基础教程。
 
-![Classes](assets/quaterfinal/classes.jpg)
-
-
+![Classes](./assets/quaterfinal/classes.jpg)
 
 ### 法杖属性
 
 不同的法杖拥有不同的属性和技能。你可以可以打开背包，将光标悬浮在法杖和技能（附魔书）上，查看各个法杖和技能的详情。
 
-![Cane](assets/quaterfinal/cane.png)
+![Cane](./assets/quaterfinal/cane.png)
 
 ### 技能释放
 
 技能释放存在冷却时间且需要消耗法力值，法力值将在经验栏显示。
 
-![MP](assets/quaterfinal/mp.png)
+![MP](./assets/quaterfinal/mp.png)
 
 - 单击右键进行技能释放；
 - 按住 Shift 并单击右键进行强化技能释放；
@@ -84,7 +82,7 @@
 
 每个法杖的五个技能分别位于背包中行的中间五个附魔书，从左到右依次是技能一到技能五，每个技能最高可以升级到五级。
 
-![Skills](assets/quaterfinal/skills.png)
+![Skills](./assets/quaterfinal/skills.png)
 
 每升级一次技能，需要消耗 5 个魔灵石。魔灵石位于快捷栏第九格，可以通过击杀敌方或存活一段时间获得。
 
@@ -92,5 +90,5 @@
 
 地图的某个地方会出现药水，拾起它将会获得附加效果增益！
 
-![药水](assets/quaterfinal/potion.jpg)
+![药水](./assets/quaterfinal/potion.jpg)
 
