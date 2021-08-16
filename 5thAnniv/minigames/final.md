@@ -28,7 +28,9 @@
 
 达成 Bingo 即可获胜：即在集齐在 Bingo Board 上的一排、一列或对角线上的 5 个物品。
 
-![Map](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/Bingo/map.png)
+![Col](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/Bingo/Bingo-Col.png)
+
+![Row](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/Bingo/Bingo-row.png)
 
 最先达成 Bingo 的团队即为最终优胜团队。
 
