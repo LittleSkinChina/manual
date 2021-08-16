@@ -22,13 +22,21 @@
 
 游戏开始后不会自动分配队伍，玩家需手动进入自己的队伍。
 
+![Classes](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/EB/team.png)
+
+玩家需要在 30 秒内走入图片所示的队伍区域内。
+
 ::: danger
 请注意选择自己的队伍，一旦进入队伍就不能退出。
 :::
 
 ### 准备游戏
 
-游戏开始，选择完队伍和法杖后，请打开背包，点击第三行第一个物品进行准备。所有选手都准备完成或倒计时结束时，比赛将自动开始。
+游戏进入准备阶段。请选择你喜欢的一个法杖并右键它，选择后它将会出现在墙壁上，表示你已选择法杖。
+
+![Select](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/EB/select.png)
+
+选择完法杖后，请打开背包，点击第三行第一个物品进行准备。所有选手都准备完成或倒计时结束时，比赛将自动开始。
 
 ### 得分规则
 
@@ -44,15 +52,23 @@
 
 地图上将随机出现魔灵石块，选手需抢夺并持有魔灵石以得分。
 
-在进入服务器后，你可以在大厅后面的墙选择一个法杖与其他玩家进行试玩，或是点击背包第一行第一格的技能训练功能进行技能训练。
+在进入服务器后，你可以在大厅后面的墙选择一个法杖与其他玩家进行试玩：
+
+![Classes](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/EB/classes.png)
+
+或是点击背包第一行第九格的物品进行基础教程。
 
 ### 法杖属性
 
 不同的法杖拥有不同的属性和技能。你可以可以打开背包，将光标悬浮在法杖和技能（附魔书）上，查看各个法杖和技能的详情。
 
+![详情](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/EB/xq.png)
+
 ### 技能释放
 
 技能释放存在冷却时间且需要消耗法力值，法力值将在经验栏显示。
+
+![Classes](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/EB/shortcut-bar.png)
 
 - 单击右键进行技能释放；
 - 按住 Shift 并单击右键进行强化技能释放；
@@ -64,8 +80,12 @@
 
 每个法杖的五个技能分别位于背包中行的中间五个附魔书，从左到右依次是技能一到技能五，每个技能最高可以升级到五级。
 
+![Classes](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/EB/backpack.png)
+
 每升级一次技能，需要消耗 5 个魔灵石。魔灵石位于快捷栏第九格，可以通过击杀敌方或存活一段时间获得。
 
 ### 游戏提示
 
 地图的某个地方会出现药水，拾起它将会获得附加效果增益！
+
+![药水](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/EB/ys.png)
