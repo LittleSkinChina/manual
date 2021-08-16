@@ -32,6 +32,8 @@
 
 ![Row](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/Bingo/BINGO-row.png)
 
+![Dia](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/Bingo/BINGO-dia.png)
+
 最先达成 Bingo 的团队即为最终优胜团队。
 
 除优胜团队之外，我们还将选取收集 Bingo Board 上任务物品最多的团队，评为“最速传说”团队。
