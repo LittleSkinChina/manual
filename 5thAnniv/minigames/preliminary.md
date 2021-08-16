@@ -80,6 +80,6 @@
 >       拥有驾驭风的力量, 右键挥动可吹动玩家和羊羊。
 >     在大厅一角可切换羊羊类型, 获得更多样化的能力
 
-![ShortCut Bar](https://cdn.jsdelivr.net/gh/Restent/Photos-Of-LS5TH/DXST/shortcut-bar.png)
+![ShortCut Bar](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/DXST/shortcut-bar.png)
 
 关于该地图的更多玩法信息，请查看 [该地图的 MCBBS 发布帖](https://www.mcbbs.net/thread-908503-1-1.html)。
