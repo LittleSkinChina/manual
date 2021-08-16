@@ -54,7 +54,7 @@
 
 地图上将随机出现魔灵石块，选手需抢夺并持有魔灵石以得分。
 
-![魔灵石块}(https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/EB/mlsk.jpg)
+![魔灵石块](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/EB/mlsk.jpg)
 
 在进入服务器后，你可以在大厅后面的墙选择一个法杖与其他玩家进行试玩：
 
