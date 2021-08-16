@@ -22,15 +22,25 @@
 
 站上游戏大厅中代表各队伍的颜色的区域即可加入对应的队伍。
 
+![Team](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/Bingo/team.png)
+
 ### 获胜方法
 
-达成 Bingo 即可获胜：即在集齐在 Bingo Board 上的一排、一列或对角线上的 5 个物品。最先达成 Bingo 的团队即为最终优胜团队。
+达成 Bingo 即可获胜：即在集齐在 Bingo Board 上的一排、一列或对角线上的 5 个物品。
+
+![Map](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/Bingo/map.png)
+
+最先达成 Bingo 的团队即为最终优胜团队。
 
 除优胜团队之外，我们还将选取收集 Bingo Board 上任务物品最多的团队，评为“最速传说”团队。
 
 ## 游戏玩法
 
-游戏开始后，Bingo Board 上会生成 25 个随机物品的随机组合。各个队伍将会分散在不同的区域。各个队伍可以互相靠近，并和其他队伍进行 PvP。请注意，如果你死亡，你的物品将会掉落！
+游戏开始后，Bingo Board 上会生成 25 个随机物品的随机组合，并给予你 Bingo Board（左手）和石制工具（快捷栏）。
+
+![Game](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/Bingo/game.png)
+
+各个队伍将会分散在不同的区域。各个队伍可以互相靠近，并和其他队伍进行 PvP。请注意，如果你死亡，你的物品将会掉落！
 
 当你获得一件新的 Bingo 物品时，手持地图并扔出它以更新 Bingo Board。
 
