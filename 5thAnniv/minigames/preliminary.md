@@ -86,12 +86,12 @@
 
 连续发射羊羊需要冷却，冷却时间将在经验栏显示；多次使用芭蕉扇需要冷却，芭蕉扇可使用的次数将显示为等级，冷却时间将在经验栏显示。
 
+![ShortCut Bar](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/DXST/shortcut-bar.png)
+
 > 你手中第一格的物品: 羊羊大炮
 >       右键能够发射神奇羊羊, 是你参战的主要武器。
 > 你手中第二格的物品: 芭蕉扇
 >       拥有驾驭风的力量, 右键挥动可吹动玩家和羊羊。
 >     在大厅一角可切换羊羊类型, 获得更多样化的能力
-
-![ShortCut Bar](https://cdn.jsdelivr.net/gh/Restent/Photos-For-LS5TH/DXST/shortcut-bar.png)
 
 关于该地图的更多玩法信息，请查看 [该地图的 MCBBS 发布帖](https://www.mcbbs.net/thread-908503-1-1.html)。
