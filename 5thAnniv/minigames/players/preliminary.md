@@ -1,6 +1,6 @@
 # 小游戏竞赛初赛各场次玩家列表
 
-这是小游戏竞赛初赛各场次的选手列表，其中排名不分先后。一共有 138 位用户报名参与小游戏竞赛，其中 48 位选手未选择场次，由运营组随机分配。
+这是小游戏竞赛初赛各场次的选手列表，其中排名不分先后。一共有 138 位用户报名参与小游戏竞赛，其中 48 位选手未选择场次，由运营组随机分配；其中 10 位选手由于报名时信息填写错误，报名无效。
 
 ## 第一场
 
@@ -36,10 +36,9 @@ SCP181
 
 ## 第二场
 
-比赛时间：2021 年 8 月 21 日 15 时 30 分。共 16 人参与：
+比赛时间：2021 年 8 月 21 日 15 时 30 分。共 15 人参与：
 
 ```
-bilibili_kugua
 MUkun_z
 lengan_gfs
 Apreaky
@@ -84,18 +83,16 @@ RyLinYu_
 
 ## 第四场
 
-比赛时间：2021 年 8 月 21 日 20 时 30 分。共 15 人参与：
+比赛时间：2021 年 8 月 21 日 20 时 30 分。共 13 人参与：
 
 ```
 Noob_Tr
 Saierkuell
 SupLaXing
-ChirsRan
 无敌的滑稽
 Cat_cubs
 zjl
 Paperbox177
-Zhi__Tang
 Thebloomofdeath
 Ling_White_ink
 yu_qian_si
@@ -106,7 +103,7 @@ Paper_white
 
 ## 第五场
 
-比赛时间：2021 年 8 月 22 日 15 时整。共 16 人参与：
+比赛时间：2021 年 8 月 22 日 15 时整。共 15 人参与：
 
 ```
 China_Enron
@@ -117,7 +114,6 @@ sheng23333
 LiitleLove
 Alonzo_Smith
 wuka1234
-我是泼猴
 Kcoale
 Skert-自在逍遥
 PA_MS
@@ -129,17 +125,15 @@ Res_Fly
 
 ## 第六场
 
-比赛时间：2021 年 8 月 22 日 15 时 30 分。共 16 人参与：
+比赛时间：2021 年 8 月 22 日 15 时 30 分。共 14 人参与：
 
 ```
 Tea_B
-littlebread
 DeanClock
 idfjgoidfoig
 wwcxy
 xiguayo233
 Yi_Joy
-伏地出色
 Ai_Yu
 jiandan233
 ali
@@ -152,7 +146,7 @@ duluobianyu
 
 ## 第七场
 
-比赛时间：2021 年 8 月 22 日 20 时整。共 16 人参与：
+比赛时间：2021 年 8 月 22 日 20 时整。共 15 人参与：
 
 ```
 tai_feng
@@ -170,15 +164,13 @@ cheeeny
 Mengjing
 Rainbow_T
 Xiaohao520
-Crescent_bay
 ```
 
 ## 第八场
 
-比赛时间：2021 年 8 月 22 日 20 时 30 分。共 16 人参与：
+比赛时间：2021 年 8 月 22 日 20 时 30 分。共 13 人参与：
 
 ```
-tokitou
 Waiting
 typhoon
 ime_sef
@@ -186,11 +178,9 @@ muqi
 jiakua
 magicpan
 Dong_shan
-mingkoug
 Argent_qwq
 Xiaochao_
 ye_kong
-TheresaOtto
 BSOD
 TianChanYaTvT
 xuanzhou
