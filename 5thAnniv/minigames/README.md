@@ -8,6 +8,10 @@
 
 有关各轮比赛的具体规则，请查看左侧菜单中的链接；有关小游戏竞赛环节的奖品的信息，请查看 [奖品列表](/5thAnniv/rewards.html)。
 
+::: tip 提示
+初赛各场次的玩家列表已经公布，[*点击查看 >>>*](/5thAnniv/minigames/players/preliminary.html)
+:::
+
 ## 地图信息
 
 - 初赛游玩的地图 [地陷圣坛](https://www.mcbbs.net/thread-908503-1-1.html)，由 Command Block Logic 小组制作；
