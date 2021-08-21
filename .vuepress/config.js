@@ -35,6 +35,7 @@ module.exports = {
                         ['/5thAnniv/minigames/', '简述'],
                         ['/5thAnniv/minigames/preliminary.html', '初赛'],
                         ['/5thAnniv/minigames/quaterfinal.html', '复赛'],
+                        ['/5thAnniv/minigames/semifinal.html', '半决赛'],
                         ['/5thAnniv/minigames/final.html', '决赛']
                     ]
                 },
