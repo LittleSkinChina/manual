@@ -33,7 +33,7 @@
 | SevenWuying  | LiitleLove    |
 | Guangbai     | LinLei_Baruch |
 | MeowBot_Neko | Frackef       |
-| Rainbow_T    | yekong_cuican |
+| wwcxy        | yekong_cuican |
 
 ## 第四场
 
@@ -41,10 +41,10 @@
 
 | 绿队            | 黄队        |
 | --------------- | ----------- |
-| Xiaohao520      | WHTL_       |
+| Xiaohaoxh_520   | WHTL_       |
 | MisakaMikoto149 | Paper_white |
 | YuTang_ya       | Paperbox177 |
-| tai_feng        | bad_sheep   |
+| Xiao__JuZi      | bad_sheep   |
 
 ## 第五场
 
@@ -54,7 +54,7 @@
 | ------------ | ---------- |
 | WhiteXFox    | yu_qian_si |
 | Wishing_Qi   | DeanClock  |
-| idfjgoidfoig | Xiao__JuZi |
+| idfjgoidfoig | sheng23333 |
 | SupLaXing    | tianqi482  |
 
 ## 第六场
@@ -77,15 +77,15 @@
 | Eterstars  | UIYZi         |
 | XTianShuo  | QiyiDeHongshi |
 | jifengoqk  | Rainbow_T     |
-| mo_shen_xi | Cat_cubs      |
+| mo_shen_xi | tai_feng      |
 
 ## 第八场
 
 比赛时间：2021 年 8 月 24 日 21 时整
 
-| 绿队          | 黄队       |
-| ------------- | ---------- |
-| Solomon4k     | wwcxy      |
-| Youranxiaogao | Xiao__JuZi |
-| AutumnIsPro   | chiyan.    |
-| lchoip        | SCP181     |
+| 绿队          | 黄队      |
+| ------------- | --------- |
+| Solomon4k     | Cat_cubs  |
+| Youranxiaogao | Xiaochao_ |
+| AutumnIsPro   | chiyan.   |
+| lchoip        | SCP181    |
