@@ -1,61 +1,63 @@
 # 小游戏竞赛复赛各场次选手列表
 
+表格中加粗标注的角色名表示其对应的选手在该轮次中晋级；以斜体标注的角色名表示其对应的选手实际未参与该轮次比赛（未进入比赛服务器）。
+
 ## 第一场
 
-比赛时间：2021 年 8 月 23 日 14 时 30 分
+比赛时间：2021 年 8 月 23 日 14 时 30 分（准点开始）
 
-| 红队        | 蓝队        |
-| ----------- | ----------- |
-| ImLingCheng | TheBiigShit |
-| 249         | Uncle_Red_  |
-| GS_Jie      | DaddyKyeick |
-| Eh5_        | Nobi_kamo   |
+| 红队            | 蓝队           |
+| --------------- | -------------- |
+| **ImLingCheng** | TheBiigShit    |
+| **_249_**       | _Uncle\_Red\__ |
+| **GS\_Jie**     | _DaddyKyeick_  |
+| **Eh5\_**       | Nobi_kamo      |
 
 
 
 ## 第二场
 
-比赛时间：2021 年 8 月 23 日 16 时整
+比赛时间：2021 年 8 月 23 日 16 时整（实际延后至约 16 时 20 分）
 
-| 绿队        | 黄队             |
-| ----------- | ---------------- |
-| jiakua      | 关注嘉然顿顿解馋 |
-| chou_e      | ER_Capital       |
-| Zhi_Dao     | Yi_Joy           |
-| Solitudream | bingling_sama    |
+| 绿队            | 黄队             |
+| --------------- | ---------------- |
+| **jiakua**      | 关注嘉然顿顿解馋 |
+| **chou\_e**     | ER\_Capital      |
+| **Zhi\_Dao**    | _Yi\_Joy_        |
+| **Solitudream** | _binglin_sama_   |
 
 ## 第三场
 
-比赛时间：2021 年 8 月 23 日 19 时 30 分
+比赛时间：2021 年 8 月 23 日 19 时 30 分（实际略有延后）
 
-| 红队         | 蓝队          |
-| ------------ | ------------- |
-| SevenWuying  | LiitleLove    |
-| Guangbai     | LinLei_Baruch |
-| MeowBot_NEKO | Frackef       |
-| wwcxy        | yekong_cuican |
+| 红队              | 蓝队             |
+| ----------------- | ---------------- |
+| **SevenWuying**   | LiitleLove       |
+| **Guangbai**      | LinLei_Baruch    |
+| **MeowBot\_NEKO** | Frackef          |
+| **wwcxy**         | _yekong\_cuican_ |
 
 ## 第四场
 
-比赛时间：2021 年 8 月 23 日 21 时整
+比赛时间：2021 年 8 月 23 日 21 时整（准点开始）
 
-| 绿队            | 黄队        |
-| --------------- | ----------- |
-| Xiaohaoxh_520   | WHTL_       |
-| MisakaMikoto149 | Paper_white |
-| YuTang_ya       | Paperbox177 |
-| Xiao__JuZi      | bad_sheep   |
+| 绿队            | 黄队             |
+| --------------- | ---------------- |
+| Xiaohaoxh\_520  | **WHTL\_**       |
+| MisakaMikoto149 | **Paper\_white** |
+| _YuTang\_ya_    | **Paperbox177**  |
+| Xiao\_\_JuZi    | **bad\_sheep**   |
 
 ## 第五场
 
 比赛时间：2021 年 8 月 24 日 14 时 30 分
 
-| 红队         | 蓝队       |
-| ------------ | ---------- |
-| WhiteXFox    | yu_qian_si |
-| Wishing_Qi   | DeanClock  |
-| idfjgoidfoig | sheng23333 |
-| SupLaXing    | tianqi482  |
+| 红队         | 蓝队         |
+| ------------ | ------------ |
+| WhiteXFox    | yu\_qian\_si |
+| Wishing\_Qi  | DeanClock    |
+| idfjgoidfoig | sheng23333   |
+| SupLaXing    | tianqi482    |
 
 ## 第六场
 
@@ -63,8 +65,8 @@
 
 | 绿队       | 黄队       |
 | ---------- | ---------- |
-| Bei_kui    | FunnyKing  |
-| PA_MS      | XIANG___   |
+| Bei\_kui   | FunnyKing  |
+| PA\_MS     | XIANG\_\__ |
 | zjl        | wuka1234   |
 | IrisHunter | xiaojibola |
 
@@ -72,20 +74,20 @@
 
 比赛时间：2021 年 8 月 24 日 19 时 30 分
 
-| 红队       | 蓝队          |
-| ---------- | ------------- |
-| Eterstars  | UIYZi         |
-| XTianShuo  | QiyiDeHongshi |
-| jifengoqk  | Rainbow_T     |
-| mo_shen_xi | tai_feng      |
+| 红队         | 蓝队          |
+| ------------ | ------------- |
+| Eterstars    | UIYZi         |
+| XTianShuo    | QiyiDeHongshi |
+| jifengoqk    | Rainbow\_T    |
+| mo\_shen\_xi | tai\_feng     |
 
 ## 第八场
 
 比赛时间：2021 年 8 月 24 日 21 时整
 
-| 绿队          | 黄队      |
-| ------------- | --------- |
-| Solomon4k     | Cat_cubs  |
-| Youranxiaogao | Xiaochao_ |
-| AutumnIsPro   | chiyan.   |
-| lchoip        | SCP181    |
+| 绿队          | 黄队       |
+| ------------- | ---------- |
+| Solomon4k     | Cat_cubs   |
+| Youranxiaogao | Xiaochao\_ |
+| AutumnIsPro   | chiyan.    |
+| lchoip        | SCP181     |
