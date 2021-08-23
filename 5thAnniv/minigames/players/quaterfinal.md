@@ -32,7 +32,7 @@
 | ------------ | ------------- |
 | SevenWuying  | LiitleLove    |
 | Guangbai     | LinLei_Baruch |
-| MeowBot_Neko | Frackef       |
+| MeowBot_NEKO | Frackef       |
 | wwcxy        | yekong_cuican |
 
 ## 第四场
