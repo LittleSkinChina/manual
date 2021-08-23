@@ -60,14 +60,13 @@ lchoip
 
 ## 第三场
 
-比赛时间：2021 年 8 月 21 日 20 时整。共 18 人参与：
+比赛时间：2021 年 8 月 21 日 20 时整。共 17 人参与：
 
 ```
 MisakaMikoto149
 MeowBot_NEKO
-MeowBot_NEKO
 Sheep_law
-ER Capital
+ER_Capital
 WHTL_
 Youranxiaogao
 MY_yvyan
@@ -111,7 +110,7 @@ Paper_white
 China_Enron
 QiyiDeHongshi
 Cimaranton
-Uncle_Red
+Uncle_Red_
 sheng23333
 LiitleLove
 Alonzo_Smith
@@ -165,7 +164,7 @@ Chu_Zou
 cheeeny
 Mengjing
 Rainbow_T
-Xiaohao520
+Xiaohaoxh_520
 ```
 
 ## 第八场
@@ -182,9 +181,8 @@ magicpan
 Dong_shan
 Argent_qwq
 Xiaochao_
-ye_kong
+yekong_cuican
 BSOD
 TianChanYaTvT
 xuanzhou
 ```
-
