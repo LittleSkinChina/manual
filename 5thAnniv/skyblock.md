@@ -30,3 +30,11 @@
 ## 其它
 
 输入 `/is help` 可获得更多的指令信息。
+
+::: tip  赞助商
+本次活动的游戏服务器由 Complex Studio 旗下【[宿雨云 | 性能怪兽 / 三线高防 / 优质售后](https://www.mcbbs.net/thread-1210568-1-1.html)】强力驱动，保障每一位玩家的游戏体验如德芙般丝滑顺畅。
+
+[![](https://ns.complexstudio.net/uploads/images/2021-06-15/01e4d6c66d470246b791fe20fec4444e.png)](https://www.mcbbs.net/thread-1210568-1-1.html)
+
+在此感谢 Complex Studio 和宿雨云对本次活动的大力支持！
+:::

@@ -47,8 +47,7 @@
 比赛开始前，服务器将设置白名单，仅报名参与当前场次的选手可以进入；比赛开始后，白名单将解除，所有用户均可进入服务器观战。
 
 ::: tip  赞助商
-
-本次活动的小游戏竞赛环节的游戏服务器由 Complex Studio 旗下【[宿雨云 | 性能怪兽 / 三线高防 / 优质售后](https://www.mcbbs.net/thread-1210568-1-1.html)】强力驱动，保障每一位玩家的游戏体验如德芙般丝滑顺畅。
+本次活动的游戏服务器由 Complex Studio 旗下【[宿雨云 | 性能怪兽 / 三线高防 / 优质售后](https://www.mcbbs.net/thread-1210568-1-1.html)】强力驱动，保障每一位玩家的游戏体验如德芙般丝滑顺畅。
 
 [![](https://ns.complexstudio.net/uploads/images/2021-06-15/01e4d6c66d470246b791fe20fec4444e.png)](https://www.mcbbs.net/thread-1210568-1-1.html)
 
