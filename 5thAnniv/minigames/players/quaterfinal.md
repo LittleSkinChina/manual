@@ -50,44 +50,44 @@
 
 ## 第五场
 
-比赛时间：2021 年 8 月 24 日 14 时 30 分
+比赛时间：2021 年 8 月 24 日 14 时 30 分（准点开始）
 
-| 红队         | 蓝队         |
-| ------------ | ------------ |
-| WhiteXFox    | yu\_qian\_si |
-| Wishing\_Qi  | DeanClock    |
-| idfjgoidfoig | sheng23333   |
-| SupLaXing    | tianqi482    |
+| 红队             | 蓝队           |
+| ---------------- | -------------- |
+| **WhiteXFox**    | _yu\_qian\_si_ |
+| **Wishing\_Qi**  | _DeanClock_    |
+| **idfjgoidfoig** | sheng23333     |
+| **SupLaXing**    | tianqi482      |
 
 ## 第六场
 
-比赛时间：2021 年 8 月 24 日 16 时整
+比赛时间：2021 年 8 月 24 日 16 时整（实际略有延后）
 
-| 绿队       | 黄队       |
-| ---------- | ---------- |
-| Bei\_kui   | FunnyKing  |
-| PA\_MS     | XIANG\_\__ |
-| zjl        | wuka1234   |
-| IrisHunter | xiaojibola |
+| 绿队           | 黄队       |
+| -------------- | ---------- |
+| **Bei\_kui**   | FunnyKing  |
+| **PA\_MS**     | XIANG\_\__ |
+| **zjl**        | _wuka1234_ |
+| **IrisHunter** | xiaojibola |
 
 ## 第七场
 
-比赛时间：2021 年 8 月 24 日 19 时 30 分
+比赛时间：2021 年 8 月 24 日 19 时 30 分（准点开始）
 
-| 红队         | 蓝队          |
-| ------------ | ------------- |
-| Eterstars    | UIYZi         |
-| XTianShuo    | QiyiDeHongshi |
-| jifengoqk    | Rainbow\_T    |
-| mo\_shen\_xi | tai\_feng     |
+| 红队               | 蓝队          |
+| ------------------ | ------------- |
+| **Eterstars**      | UIYZi         |
+| **XTianShuo**      | QiyiDeHongshi |
+| **jifengoqk**      | Rainbow\_T    |
+| **_mo\_shen\_xi_** | tai\_feng     |
 
 ## 第八场
 
 比赛时间：2021 年 8 月 24 日 21 时整
 
-| 绿队          | 黄队       |
-| ------------- | ---------- |
-| Solomon4k     | Cat_cubs   |
-| Youranxiaogao | Xiaochao\_ |
-| AutumnIsPro   | chiyan.    |
-| lchoip        | SCP181     |
+| 绿队          | 黄队           |
+| ------------- | -------------- |
+| Solomon4k     | **Cat_cubs**   |
+| Youranxiaogao | **Xiaochao\_** |
+| _AutumnIsPro_ | **chiyan.**    |
+| lchoip        | **SCP181**     |
