@@ -41,7 +41,7 @@ module.exports = {
                 },
                 ['/5thAnniv/redeem.html', '积分兑换'],
                 ['/5thAnniv/rewards.html', '奖品'],
-                '/5thAnniv/winnder.md'
+                '/5thAnniv/winner.md'
             ],
             '/': [
                 ['/', '欢迎页'],
