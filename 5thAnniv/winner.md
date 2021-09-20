@@ -77,8 +77,8 @@
 
 - Eterstars
 - XTianShuo
-- jifenggoqk
-- mo\_sheng\_xi
+- jifengoqk
+- mo\_shen\_xi
 
 ## 空岛生存竞赛
 
