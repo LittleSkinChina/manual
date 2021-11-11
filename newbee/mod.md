@@ -56,6 +56,7 @@ CustomSkinLoader 14.4 起支持通过 ExtraList 的方式添加皮肤站，这�
             "name": "LittleSkin China",
             "type": "CustomSkinAPI",
             "root": "https://littleskin.cn/csl/"
+
         },
         {
             "name": "Mojang",
