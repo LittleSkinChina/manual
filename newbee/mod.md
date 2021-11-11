@@ -55,7 +55,7 @@ CustomSkinLoader 14.4 起支持通过 ExtraList 的方式添加皮肤站，这�
         {
             "name": "LittleSkin China",
             "type": "CustomSkinAPI",
-            "root": "https://mcskin.littleservice.cn/csl/"
+            "root": "https://littleskin.cn/csl/"
         },
         {
             "name": "Mojang",
@@ -74,14 +74,14 @@ CustomSkinLoader 14.4 起支持通过 ExtraList 的方式添加皮肤站，这�
 首先请使用记事本或者任意代码编辑器打开 `skinurls.txt`，将原有的所有内容替换为以下内容：
 
 ```
-https://mcskin.littleservice.cn/skin/*.png
+https://littleskin.cn/skin/*.png
 https://skin.prinzeugen.net/skin/*.png
 ```
 
 保存退出后再使用记事本或任意代码编辑器打开 `capeurls.txt`，将原有的所有内容替换为以下内容：
 
 ```
-https://mcskin.littleservice.cn/cape/*.png
+https://littleskin.cn/cape/*.png
 https://skin.prinzeugen.net/cape/*.png
 ```
 
@@ -110,8 +110,8 @@ SkinPort 仅适用于 Minecraft 1.7.10。对于更低版本，目前没有方法
 ``` conf
 client {
     S:hostCustomServer=http://example.com
-    S:hostCustomServer2Cape=https://mcskin.littleservice.cn/cape/%name%.png
-    S:hostCustomServer2Skin=https://mcskin.littleservice.cn/skin/%name%.png
+    S:hostCustomServer2Cape=https://littleskin.cn/cape/%name%.png
+    S:hostCustomServer2Skin=https://littleskin.cn/skin/%name%.png
     B:useCrafatar=false
     B:useCustomServer=false
     B:useCustomServer2=true
@@ -125,9 +125,9 @@ client {
 
 ```
 # 皮肤查询 API
-https://mcskin.littleservice.cn/skin/{playername}.png
+https://littleskin.cn/skin/{playername}.png
 # 披风查询 API
-https://mcskin.littleservice.cn/cape/{playername}.png
+https://littleskin.cn/cape/{playername}.png
 ```
 
 请将以上两个查询 API 填入你的皮肤 Mod 的配置文件的对应位置。其中 `{playername}` 为角色名，请将其替换为对应的占位符。
