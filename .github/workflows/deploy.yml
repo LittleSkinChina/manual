@@ -3,14 +3,16 @@ name: Deploy to Vercel
 on: [push, pull_request]
 
 jobs:
-  test:
+  deploy:
     name: Deploy
     runs-on: ubuntu-latest
+    env: 
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: true
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Deploy
-      uses: amondnet/vercel-action@v19.0.1+1
+      uses: amondnet/vercel-action@v20.0.0
       if: github.event_name == 'push'
       with:
         vercel-token: ${{ secrets.VERCEL_TOKEN }}
