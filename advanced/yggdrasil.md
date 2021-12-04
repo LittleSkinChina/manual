@@ -72,6 +72,9 @@ LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功�
 
 5. 设置完成啦！你可以启动游戏了。
 
+::: tip
+如果你在进入服务器时遇到「无效的会话」错误，请参考：[外置登录进入服务器时提示「无效的会话」/ accessToken 无效](/faq.html#外置登录进入服务器时提示「无效的会话」-accessToken-无效)
+:::
 
 ## 参考链接
 
