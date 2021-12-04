@@ -33,9 +33,9 @@
 - QQ 群：[586146922](https://jq.qq.com/?_wv=1027&k=5uVljsY)
 - Telegram 群组：[@littleskin](https://t.me/littleskin)
 
-主用户群主要用于解决用户在使用 LittleSkin 时遇到的问题，以及各种反馈。主用户群内不允许过分水群，大水怪将收到管理员送出的禁言套餐。
+主用户群主要用于解决用户在使用 LittleSkin 时遇到的问题，以及各种反馈，原则上不允许讨论与 LittleSkin 无关的事务，大水怪将收到管理员送出的禁言套餐。如需闲聊，请加入咖啡馆。
 
-## 咖啡馆
+## Honoka Café 穗香咖啡馆
 
 - QQ 群：[651672723](https://jq.qq.com/?_wv=1027&k=3S0sYT6C)
 - Telegram 群组：[@honokacafe](https://t.me/honokacafe)
