@@ -1,57 +1,59 @@
 # Yggdrasil
 
-LittleSkin 提供 Yggdrasil 验证鉴权服务。你可以配合 [authlib-injector](https://github.com/yushijinhun/authlib-injector) 来实现 Minecraft 服务器外置登录，并在不安装皮肤 Mod 的情况下加载来自 LittleSkin 的材质。
+LittleSkin offered Yggdrasil Verify Authentication Service. You can achieve Minecraft Server external login with [authlib-injector](https://github.com/yushijinhun/authlib-injector), and also load the textures from LittleSkin without install skin loader mod.
 
-你可以在 [https://authlib-injector.yushi.moe/~download/](https://authlib-injector.yushi.moe/~download/) 下载到最新版本的 authlib-injector。
+You can download the latest authlib-injector at <https://authlib-injector.yushi.moe/~download/>
 
-## Yggdrasil API 地址
-LittleSkin 的 Yggdrasil API 的地址是：
+## Yggdrasil API address
+
+The Yggdrasil API address of LittleSkin is:
 
 ```
 https://littlesk.in/api/yggdrasil
 ```
 
-LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功能。在使用支持 ALI 的 authlib-injector 和启动器时，输入 LittleSkin 的任意页面的地址即可被识别。
+LittleSkin has already active the API Address Indication (ALI) function of authlib-injector. When you are using launcher that supported authlib-injector of ALI, type any address of LittleSkin can be identified.
 
-## API 文档
+## API Documents
 
-请参阅：[Yggdrasil 服务端技术规范](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)
+See: [Yggdrasil Server Technical Specifications](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)
 
-## 在服务端使用
+## Use at server
 
-请先将服务器配置文件（一般为 server.properties）中 `online-mode` 一项的值设为 `true`，然后在你的服务端的启动指令的 `-jar` 参数前添加如下参数：
+Please change the `online-mode` value to `true` of server configuration file, and add this parameter before `-jar` of your server start command:
 
 ```
 -javaagent:{path/to/authlib-injector.jar}=https://littlesk.in/api/yggdrasil
 ```
 
-其中 `{path/to/authlib-injector.jar}` 为指向 authlib-injector 的路径。
+In this, `{path/to/authlib-injector.jar}` is the path that direct to authlib-injector.
+
 
 ::: warning
-<strong>实际填写的路径两边没有大括号！</strong>大括号只是表明必须正确指定这个参数的值，但是实际上并不需要填入大括号。
+<strong>The path that you write isn't has big parantheses in real!<strong>The big parantheses is only show that must be assign this value correctly, but needn't write big paratheses in real.
 :::
 
 ::: tip
-如果你使用 BungeeCord，你需要在所有服务端（包括 BungeeCord 和所有子服）中加载 authlib-injector（方法见上），但只有 BungeeCord 可以打开 `online-mode`，其他服务端应该关闭 `online-mode`。
+If you're using BungeeCord, you need to load authlib-injector for all server(include BungeeCord and all sub servers), but you can only open `online-mode` of BungeeCord, keep closed for other server.
 :::
 
-## 在客户端使用
+## Use at client
 
-在客户端中使用 LittleSkin 的 Yggdrasil 需要启动器支持自定义 Yggdrasil 服务器。推荐使用 [HMCL 3](https://www.mcbbs.net/thread-142335-1-1.html) 和 [BakaXL](https://www.mcbbs.net/thread-512144-1-1.html)。
+Your launcher need to support custom Yggdrasil server if use Yggdrasil of LittleSkin in client. We are recommended to use [HMCL 3](https://www.mcbbs.net/thread-142335-1-1.html) and [BakaXL](https://www.mcbbs.net/thread-512144-1-1.html).
 
 ::: tip
-如果你使用的启动器不支持自定义 Yggdrasil，并且你使用的启动器是使用 Java 编写的，你也可以手动添加 JVM 参数来加载 authlib-injector（就像在服务端使用 authlib-injector 一样），但是这篇文档不介绍这种做法。
+If your launcher doesn't support custom Yggdrasil, but your launcher was written by Java, you can add JVM value by yourself to load authlib-injector(same as use authlib-injector at server), but at this document we won't show how to do this.
 :::
 
-以下以 HMCL 3 为例，演示在 Minecraft 客户端中使用 Yggdrasil。
-
-1. 打开 HMCL 3 的「新建游戏账户」界面，选择登录方式为「外置登录（authlib-injector）」。   
-如果这是你第一次打开 HMCL，这个界面将会在启动时弹出。
+We use HMCL 3 to set up an example to show how to use Yggdrasil in Minecraft Client.
+  
+1. Open the "Create a new account" page, select the login type as "authlib-injector".
+If this is your first time to open HMCL, it will appear when it started.
 
 ![set-login-method](./assets/yggdrasil/set-login-method.png)
 
-2. 点击「认证服务器」旁的加号「+」，输入 LittleSkin 的 Yggdrasil API 地址，点击「下一步」，等待识别出 LittleSkin 的 Yggdrasil 后点击「完成」。   
-如果你曾经添加过 LittleSkin 的 Yggdrasil，你也可以在「认证服务器」菜单中直接选择 LittleSkin。
+2. Click the "+" at the right of auth server, type the Yggdrasil API address of LittleSkin, click "Next", wait for it identify the Yggdrasil of LittleSkin, then click "Finish".
+If you already add the Yggdrasil of LittleSkin you can select LittleSkin at auth server list.
 
 ![add-yggdrasil-server-1](./assets/yggdrasil/add-yggdrasil-server-1.png)
 
@@ -59,21 +61,29 @@ LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功�
 
 ![add-yggdrasil-server-3](./assets/yggdrasil/add-yggdrasil-server-3.png)
 
-3. 在「认证服务器」菜单中选择 LittleSkin，填写你的邮箱和密码。「用户名」即为你在 LittleSkin 的账号的邮箱。   
-如果你只添加了一个认证服务器，那么 HMCL 3 会默认选中那个唯一的认证服务器。
+3.Select LittleSkin at auth server list, then type you E-Mail and password. "Name" is the E-Mail address of your LittleSkin account.
+If you only add a auth server, so HMCL 3 will select the only auth server defaultly.
 
 ![set-email-password](./assets/yggdrasil/set-email-password.png)
 
-4. 选择你的游戏角色。   
-如果你只有一个角色，那么 HMCL 3 会默认选择那个唯一的角色。   
-如果你希望添加多个角色，你可以再次添加你的账号来添加另一个角色。
+4.Select your character.
+If you only have a character, so HMCL 3 will select the only character defaultly.
+If you wanna add more characters, you can add your account again to add other character.
 
 ![choose-player](./assets/yggdrasil/choose-player.png)
 
-5. 设置完成啦！你可以启动游戏了。
+5.Setup is complete! You can start game now.
 
+::: tip A point
+For PCL2, you might be need to configure Yggdrasil server address by yourself at `Version settings` → `Settings` → `Server options`.
 
-## 参考链接
+Login type：`Authlib-Injector`
+Auth server：`https://mcskin.littleservice.cn/api/yggdrasil`
+Register address：`https://mcskin.littleservice.cn/auth/register`
+Server name：`LittleSkin`
+:::
+
+## Reference link
 
 - [在 Minecraft 服务端使用 authlib-injector](https://github.com/yushijinhun/authlib-injector/wiki/%E5%9C%A8-Minecraft-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BD%BF%E7%94%A8-authlib-injector)
 - [配合 authlib-injector 使用](https://github.com/bs-community/yggdrasil-api/wiki/0x03-配合-authlib-injector-使用)
