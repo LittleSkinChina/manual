@@ -1,8 +1,8 @@
 # Yggdrasil
 
-LittleSkin offered Yggdrasil Verify Authentication Service. You can achieve Minecraft Server external login with [authlib-injector](https://github.com/yushijinhun/authlib-injector), and also load the textures from LittleSkin without install skin loader mod.
+LittleSkin provide Yggdrasil Verify Authentication Service. You can achieve Minecraft Server external login with [authlib-injector](https://github.com/yushijinhun/authlib-injector), and also load the textures from LittleSkin without install skin loader mod.
 
-You can download the latest authlib-injector at <https://authlib-injector.yushi.moe/~download/>
+You can download the latest version of authlib-injector at <https://authlib-injector.yushi.moe/~download/>
 
 ## Yggdrasil API address
 
