@@ -42,7 +42,7 @@ If you're using BungeeCord, you need to load authlib-injector for all server(inc
 Your launcher need to support custom Yggdrasil server if use Yggdrasil of LittleSkin in client. We are recommended to use [HMCL 3](https://www.mcbbs.net/thread-142335-1-1.html) and [BakaXL](https://www.mcbbs.net/thread-512144-1-1.html).
 
 ::: tip
-If your launcher doesn't support custom Yggdrasil, and the launcher is written in Java, you can add JVM value to load authlib-injector(same as use authlib-injector at server), but at this document we won't show how to do this.
+If your launcher doesn't support custom Yggdrasil, and the launcher is written in Java, you can add JVM Arguments to load authlib-injector(same as use authlib-injector at server), but at this document we won't show how to do this.
 :::
 
 We use HMCL 3 to set up an example to show how to use Yggdrasil in Minecraft Client.
