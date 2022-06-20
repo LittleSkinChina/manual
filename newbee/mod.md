@@ -30,7 +30,7 @@ CustomSkinLoader 是我们最推荐的皮肤 Mod。
 
 LittleSkin 自 CustomSkinLoader 14.7 起被添加到了 CustomSkinLoader 的默认加载列表中，加载顺序仅次于正版皮肤，在大部分情况下，安装完成后你无需进行任何修改即可加载来自 LittleSkin 的材质。Cheers!
 
-如果因为存在与你同名的正版角色导致冲突而无法加载来自 LittleSkin 的材质，请参考下方的适用于 CustomSkinLoader 13.1 ~ 14.6a 的配置方法来修改 CustomSkinLoader 的配置文件。
+如果你在游戏内加载了你从未使用过的皮肤，或者只加载了皮肤而没有加载披风，通常是因为存在与你同名的正版角色导致冲突而无法加载来自 LittleSkin 的材质，请参考下方的适用于 CustomSkinLoader 13.1 ~ 14.6a 的配置方法来修改 CustomSkinLoader 的配置文件。
 
 ### 13.1 ~ 14.6a
 
