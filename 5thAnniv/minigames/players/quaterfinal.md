@@ -24,7 +24,7 @@
 | **jiakua**      | 关注嘉然顿顿解馋 |
 | **chou\_e**     | ER\_Capital      |
 | **Zhi\_Dao**    | _Yi\_Joy_        |
-| **Solitudream** | _binglin_sama_   |
+| **Solitudream** | _bingling_sama_   |
 
 ## 第三场
 
