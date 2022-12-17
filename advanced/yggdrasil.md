@@ -13,6 +13,13 @@ https://littlesk.in/api/yggdrasil
 
 LittleSkin 已在全站启用 authlib-injector 的 API 地址指示（ALI）功能。在使用支持 ALI 的 authlib-injector 和启动器时，输入 LittleSkin 的任意页面的地址即可被识别。
 
+::: tip
+`littlesk.in` 是一个根据您IP地址进行跳转的域名，如果您无法正常使用服务，请尝试按照您当前所在地（或服务器所在地）更改Yggdrasil API的域名。
+
+中国大陆地区（使用腾讯云CDN）：`https://littleskin.cn/api/yggdrasil`
+除中国大陆外的其它地区（使用Cloudflare CDN）：`https://mcskin.littleservice.cn/api/yggdrasil`
+:::
+
 ## API 文档
 
 请参阅：[Yggdrasil 服务端技术规范](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)
