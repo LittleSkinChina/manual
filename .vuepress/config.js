@@ -3,7 +3,7 @@ module.exports = {
     base: '/',
     ga: 'UA-136793183-1',
     head: [
-        ['link', { rel: 'icon', href: 'https://littleskin-resource-1251562235.file.myqcloud.com/favicon.png' }]
+        ['link', { rel: 'icon', href: 'https://littleskin.cn/favicon.png' }]
     ],
     serviceWorker: true,
     markdown: {
@@ -16,9 +16,9 @@ module.exports = {
         editLinks: true,
         editLinkText: '帮助我们完善这个页面',
         nav: [
-            { text: '返回 LittleSkin', link: 'https://littlesk.in' },
+            { text: '返回 LittleSkin', link: 'https://littleskin.cn' },
             { text: '五周年庆典', link: '/5thAnniv/' },
-            { text: '社区支持机器人', link: 'https://bot-manual.restent.win' },
+            { text: '社区支持机器人', link: 'https://bot-manual.commspt.littlesk.in' },
             { text: '捐助支持', link: 'https://afdian.net/@tnqzh123' }
         ],
         sidebar: {
