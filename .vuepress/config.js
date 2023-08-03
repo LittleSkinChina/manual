@@ -18,7 +18,7 @@ module.exports = {
         nav: [
             { text: '返回 LittleSkin', link: 'https://littlesk.in' },
             { text: '五周年庆典', link: '/5thAnniv/' },
-            { text: '社区支持机器人', link: 'https://bot-manual.restent.win' },
+            { text: '社区支持机器人', link: 'https://bot-manual.commspt.littlesk.in/' },
             { text: '捐助支持', link: 'https://afdian.net/@tnqzh123' }
         ],
         sidebar: {
