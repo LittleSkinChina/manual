@@ -3,7 +3,7 @@ module.exports = {
     base: '/',
     ga: 'UA-136793183-1',
     head: [
-        ['link', { rel: 'icon', href: 'https://littleskin-resource-1251562235.file.myqcloud.com/favicon.png' }]
+        ['link', { rel: 'icon', href: 'https://littleskin.cn/favicon.png' }]
     ],
     serviceWorker: true,
     markdown: {
@@ -17,7 +17,7 @@ module.exports = {
         editLinkText: '帮助我们完善这个页面',
         nav: [
             { text: '返回 LittleSkin', link: 'https://littlesk.in' },
-            { text: '五周年庆典', link: '/5thAnniv/' },
+            { text: '百万用户活动', link: '/mlnUsers/' },
             { text: '社区支持机器人', link: 'https://bot-manual.commspt.littlesk.in/' },
             { text: '捐助支持', link: 'https://afdian.net/@tnqzh123' }
         ],
@@ -42,6 +42,13 @@ module.exports = {
                 ['/5thAnniv/redeem.html', '积分兑换'],
                 ['/5thAnniv/rewards.html', '奖品'],
                 '/5thAnniv/winner.md'
+            ],
+            '/mlnUsers/': [
+                ['/mlnUsers/', '首页'],
+                '/mlnUsers/lottery.html',
+                '/mlnUsers/redeem.html',
+                '/mlnUsers/donate.md',
+                '/mlnUsers/prizes.html'
             ],
             '/': [
                 ['/', '欢迎页'],
