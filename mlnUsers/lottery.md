@@ -28,8 +28,6 @@
 - LittleSkin 文件夹一个 * 3
 - LittleSkin 五周年定制明信片一张 * 5
 - LittleSkin 积分 10000 * 5
-- Minecraft TNT 靠枕一个 * 1
-- Minecraft 苦力怕靠枕一个 * 1
 - 定制皮肤一份 * 1
 
 ### 全员奖池
@@ -40,6 +38,9 @@
 - LittleSkin 五周年定制明信片一张 * 3
 - LittleSkin 积分 5000 * 10
 - MCBBS 服务器提升卡三张 * 5
+- Minecraft TNT 靠枕一个 * 1
+- Minecraft 苦力怕靠枕一个 * 1
+- 定制皮肤一份 * 1
 
 ## 领奖
 
