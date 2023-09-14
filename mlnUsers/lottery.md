@@ -17,25 +17,25 @@
 ### 早鸟奖池 
 
 - 正版 Minecraft：Java 版和 Bedrock 版（适用于 PC 端）国际版 一份 * 1
-- LittleSkin 五周年定制礼包一套 * 3，每份中包含：
+- LittleSkin 周边礼包一套 * 3，每份中包含：
   - LittleSkin 五周年定制错别字口罩 10 只
   - LittleSkin 文件夹一个
   - LittleSkin 徽章一个
   - LittleSkin 创始人签名定制明信片一张
   - LittleSkin 积分 10000
-- LittleSkin 定制一次性口罩 10 只 * 3
+- LittleSkin 五周年定制错别字口罩 10 只 * 3
 - LittleSkin 徽章一个 * 3
 - LittleSkin 文件夹一个 * 3
-- LittleSkin 五周年定制明信片一张 * 5
+- LittleSkin 创始人签名定制明信片一张 * 5
 - LittleSkin 积分 10000 * 5
 - 定制皮肤一份 * 1
 
 ### 全员奖池
 
-- LittleSkin 定制一次性口罩 10 只，* 3
+- LittleSkin 五周年定制错别字口罩 10 只，* 3
 - LittleSkin 徽章一个 * 3
 - LittleSkin 文件夹一个 * 3
-- LittleSkin 五周年定制明信片一张 * 3
+- LittleSkin 创始人签名定制明信片一张 * 3
 - LittleSkin 积分 5000 * 10
 - MCBBS 服务器提升卡三张 * 5
 - Minecraft TNT 靠枕一个 * 1
