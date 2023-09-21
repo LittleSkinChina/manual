@@ -64,9 +64,6 @@
 抽奖程序源码如下：
 
 :::: details 点击查看抽奖程序源码
-::: warning 注意
-当前代码中的随机数生成器的种子仅为示例，实际抽奖时将使用上述的彩票开奖号码作为种子。
-:::
 ``` python
 import random
 import pandas as pd
@@ -96,14 +93,14 @@ all_prizes = [ # 全员奖池
 csv = pd.read_csv('participants.csv') # 读取参与名单
 participants = csv.uid.tolist()
 
-random.seed('16 24 26 28 31 01 06') # 09/20/2023 大乐透开奖号码，前 5 个为前区号码，后 2 个为后区号码
+random.seed('01 12 21 22 31 02 09') # 09/20/2023 大乐透开奖号码，前 5 个为前区号码，后 2 个为后区号码
 random.shuffle(early_prizes) # 打乱早鸟奖池顺序
 random.shuffle(all_prizes) # 打乱全员奖池顺序
 
 random.shuffle(participants) # 打乱参与名单顺序
 earlybirds = list(filter(lambda x: x < 500000, participants)) # 筛选早鸟名单
 
-random.seed('03 07 18 25 29 33 14') # 09/21/2023 双色球开奖号码，前 6 个为红球号码，最后一个为蓝球号码
+random.seed('06 08 10 13 16 28 13') # 09/21/2023 双色球开奖号码，前 6 个为红球号码，最后一个为蓝球号码
 early_winners = random.sample(earlybirds, len(early_prizes)) # 早鸟奖池抽奖
 early_result = pd.DataFrame({'uid': early_winners, 'prize': early_prizes}) # 生成早鸟奖池抽奖结果
 early_result.to_csv('early_winners.csv', index=False) # 导出早鸟奖池抽奖结果为 CSV 文件
