@@ -33,16 +33,14 @@ LittleSkin 支持的皮肤 Mod 都是通过角色名来识别玩家身份并加�
 
 ## 绑定正版角色
 
-如果你拥有正版 Minecraft，你可以将其绑定至你的 LittleSkin 账号。目前我们支持绑定 Mojang 账号和绑定 Microsoft 账号。
+如果你拥有正版 Minecraft，你可以将其绑定至你的 LittleSkin 账号。
 
-绑定 Mojang 账号要求你的 LittleSkin 账号的邮箱和你的 Mojang 账号的邮箱相同。你可以在用户中心的公告栏下方找到「正版验证」一栏（如果没有这一栏，请尝试刷新页面），在其中输入密码后即可完成绑定；绑定 Microsoft 账号时会跳转到 Microsoft 的 OAuth 登录页面，在其中登录你的 Microsoft 账号即可完成绑定。
+你可以在角色管理的下方找到「正版验证 & 绑定」一栏（如果没有这一栏，请尝试刷新页面），点击下方的「验证并绑定」按钮。此时页面会跳转到 Microsoft 的 OAuth 登录页面，在其中登录你的 Microsoft 账号并授权即可完成绑定。
 
-绑定后会自动在你的账号中添加和你的正版 Minecraft 账号同名的角色（如果站内已有同名角色，则该角色将会被强制转移至你的账户下），并可以获得积分奖励。
+绑定后会自动在你的账号中添加和你的正版 Minecraft 账号同名的角色（如果站内已有同名角色，则该角色将会被强制转移至你的账户下），并可以获得积分奖励。同时，若需取回最新的正版角色名或是删除角色后需要重建角色，可点击下方的「更新绑定角色」来完成。
 
-每个 LittleSkin 账户只能绑定一个正版 Minecraft 账号。
+每个 LittleSkin 账户只能绑定一个正版 Minecraft 账号，且绑定后不允许解绑正版 Minecraft 账号，除非删除 LittleSkin 账号。
 
-::: tip
-LittleSkin 通过 Mojang 官方提供的 Yggdrasil 验证鉴权系统进行正版验证，这也是官方启动器进行正版验证的方式。
-
-你输入的密码只会在 LittleSkin 的服务器的内存中短暂地保存，完成正版验证后就会被删除。LittleSkin 不会记录密码或将密码提供给第三方，你可以放心输入密码。
+::: warning
+绑定正版 Minecraft 账号后将同时绑定你的 Microsoft 账户，且与正版 Minecraft 账号一样不允许解绑，除非删除 LittleSkin 账号。请谨慎考虑后再绑定。
 :::
