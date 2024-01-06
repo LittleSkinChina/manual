@@ -77,6 +77,14 @@ LittleSkin 会不定期举办站内活动。具体何时举办活动以及活动
 
 ## 游戏加载相关
 
+### 这不是我自己设置的皮肤
+
+这个问题通常出现在使用皮肤 Mod（如 CustomSkinLoader）加载皮肤的用户当中。
+
+以 CustomSkinLoader 为例，它的默认加载顺序为 Mojang > LittleSkin。如果你的角色名与某位正版用户相同，那么 CustomSkinLoader 会优先加载那位正版用户的皮肤。
+
+要解决此问题，可以参照 [新手指引 - 配置 Mod - 手动修改配置文件](/newbee/mod.html#%E6%89%8B%E5%8A%A8%E4%BF%AE%E6%94%B9%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6:~:text=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E4%BB%8E%20%F0%9F%91%89%20%E8%BF%99%E9%87%8C%20%F0%9F%91%88%20%E4%B8%8B%E8%BD%BD%E5%88%B0%E4%B8%BA%20LittleSkin%20%E9%87%8F%E8%BA%AB%E5%AE%9A%E5%88%B6%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%EF%BC%8C%E6%AD%A4%E6%96%87%E4%BB%B6%E7%9A%84%E5%86%85%E5%AE%B9%E4%B8%8E%E4%B8%8B%E9%9D%A2%E7%9A%84%E5%86%85%E5%AE%B9%E4%B8%80%E8%87%B4%E3%80%82%E4%BD%A0%E5%8F%AA%E9%9C%80%E5%B0%86%E6%AD%A4%E6%96%87%E4%BB%B6%E8%A6%86%E7%9B%96%E5%8E%9F%E6%9C%89%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%8D%B3%E5%8F%AF%E3%80%82) 章节手动调整加载顺序，即可设置为优先从 LittleSkin 加载。
+
 ### 为什么我在网站上设置好了材质，但是在游戏中不显示 / 没更新？
 
 这是个很常见的问题。大多数情况下，这个问题是以下四个原因引起的：
