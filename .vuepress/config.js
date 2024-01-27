@@ -1,7 +1,13 @@
-module.exports = {
+import { webpackBundler } from '@vuepress/bundler-webpack'
+import { defaultTheme } from '@vuepress/theme-default'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+import { defineUserConfig } from 'vuepress'
+
+export default defineUserConfig({
+    bundler: webpackBundler(),
     title: 'LittleSkin 用户使用手册',
     base: '/',
-    ga: 'UA-136793183-1',
     head: [
         ['link', { rel: 'icon', href: 'https://littleskin.cn/favicon.png' }]
     ],
@@ -10,88 +16,131 @@ module.exports = {
         lineNumbers: true,
         externalLinks: { target: '_blank' }
     },
-    themeConfig: {
-        docsRepo: 'LittleSkinChina/manual',
+    theme: defaultTheme({
+        logo: 'https://littleskin.cn/favicon.png',
+        repo: 'LittleSkinChina/manual',
         docsBranch: 'master',
         editLinks: true,
         editLinkText: '帮助我们完善这个页面',
-        nav: [
+        navbar: [
             { text: '返回 LittleSkin', link: 'https://littlesk.in' },
             { text: '百万用户活动', link: '/mlnUsers/' },
             { text: '社区支持机器人', link: 'https://bot-manual.commspt.littlesk.in/' },
             { text: '捐助支持', link: 'https://afdian.net/@tnqzh123' }
         ],
+        sidebarDepth: 1,
         sidebar: {
-            '/5thAnniv/': [
-                ['/5thAnniv/', '首页'],
-                '/5thAnniv/singup.html',
-                '/5thAnniv/schedule.html',
-                '/5thAnniv/lottery.html',
-                ['/5thAnniv/skyblock.html', '空岛生存竞赛'],
-                {
-                    title: '小游戏竞赛',
-                    collapsable: true,
-                    children: [
-                        ['/5thAnniv/minigames/', '简述'],
-                        ['/5thAnniv/minigames/preliminary.html', '初赛'],
-                        ['/5thAnniv/minigames/quaterfinal.html', '复赛'],
-                        ['/5thAnniv/minigames/semifinal.html', '半决赛'],
-                        ['/5thAnniv/minigames/final.html', '决赛']
-                    ]
-                },
-                ['/5thAnniv/redeem.html', '积分兑换'],
-                ['/5thAnniv/rewards.html', '奖品'],
-                '/5thAnniv/winner.md'
-            ],
-            '/mlnUsers/': [
-                ['/mlnUsers/', '首页'],
-                '/mlnUsers/lottery.html',
-                '/mlnUsers/redeem.html',
-                '/mlnUsers/donate.md',
-                '/mlnUsers/prizes.html'
-            ],
             '/': [
-                ['/', '欢迎页'],
                 {
-                    title: '政策条款',
-                    collapsable: true,
-                    children: [
-                        ['/policies/tos.html', '用户服务条款'],
-                        '/policies/privacy.html'
+                    'text': '首页',
+                    'link': '/'
+                },
+                {
+                    'text': '政策条款',
+                    'collapsible': true,
+                    'children': [
+                        {
+                            'text': '用户服务条款',
+                            'link': '/policies/tos.html'
+                        },
+                        {
+                            'text': '隐私政策',
+                            'link': '/policies/privacy.html'
+                        }
                     ]
                 },
                 {
-                    title: '新手指引',
-                    collapsable: true,
-                    children: [
+                    'text': '新手指引',
+                    'collapsible': true,
+                    'children': [
                         '/newbee/player.html',
                         '/newbee/textures.html',
                         '/newbee/mod.html'
                     ]
                 },
                 '/score.html',
+                '/report.html',
+                '/email.html',
                 {
-                    title: '高级功能',
-                    collapsable: true,
-                    children: [
-                        '/advanced/api.html',
-                        '/advanced/yggdrasil.html',
-                        '/advanced/oauth2.html'
+                    text: '用户交流群',
+                    link: '/user-group.html'
+                }
+            ],
+            '/5thAnniv': [
+                {
+                    'text': '首页',
+                    'link': '/5thAnniv/'
+                },
+                '/5thAnniv/singup.html',
+                '/5thAnniv/schedule.html',
+                '/5thAnniv/lottery.html',
+                {
+                    'text': '空岛生存竞赛',
+                    'link': '/5thAnniv/skyblock.html'
+                },
+                {
+                    'text': '小游戏竞赛',
+                    'collapsible': true,
+                    'children': [
+                        {
+                            'text': '简述',
+                            'link': '/5thAnniv/minigames/'
+                        },
+                        {
+                            'text': '初赛',
+                            'link': '/5thAnniv/minigames/preliminary.html'
+                        },
+                        {
+                            'text': '复赛',
+                            'link': '/5thAnniv/minigames/quaterfinal.html'
+                        },
+                        {
+                            'text': '半决赛',
+                            'link': '/5thAnniv/minigames/semifinal.html'
+                        },
+                        {
+                            'text': '决赛',
+                            'link': '/5thAnniv/minigames/final.html'
+                        }
                     ]
                 },
-                '/faq.html',
-                ['/report.html', '报告问题的正确姿势'],
-                '/email.html',
-                ['/user-group.html', '用户交流群']
+                {
+                    'text': '积分兑换',
+                    'link': '/5thAnniv/redeem.html'
+                },
+                {
+                    'text': '奖品',
+                    'link': '/5thAnniv/rewards.html'
+                },
+                '/5thAnniv/winner.md'
+            ],
+            '/mlnUsers': [
+                {
+                    'text': '首页',
+                    'link': '/mlnUsers/'
+                },
+                '/mlnUsers/lottery.html',
+                '/mlnUsers/redeem.html',
+                '/mlnUsers/donate.md',
+                '/mlnUsers/prizes.html'
             ]
         },
-        lastUpdated: '最后更新 ',
+        lastUpdated: true,
+        lastUpdatedText: '最后更新 ',
         algolia: {
             apiKey: process.env.ALGOLIA_APIKEY,
             indexName: 'littleskin'
         },
         smoothScroll: true
-    },
+    }),
+    plugins: [
+        docsearchPlugin({
+            apiKey: process.env.ALGOLIA_APIKEY,
+            indexName: 'littleskin'
+        }),
+        googleAnalyticsPlugin({
+            id: 'G-5PFHR1YTFN',
+        }),
+    ],
     evergreen: true
-}
-
+})
