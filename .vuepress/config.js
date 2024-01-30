@@ -58,6 +58,15 @@ export default defineUserConfig({
                         '/newbee/mod.html'
                     ]
                 },
+                {
+                    'text': '高级功能',
+                    'collapsible': true,
+                    'children': [
+                        '/advanced/yggdrasil.html',
+                        '/advanced/oauth2.html',
+                        '/advanced/api.html'
+                    ]
+                },
                 '/score.html',
                 '/report.html',
                 '/email.html',
