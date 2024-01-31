@@ -13,8 +13,9 @@ export default defineUserConfig({
     ],
     serviceWorker: true,
     markdown: {
-        lineNumbers: true,
-        externalLinks: { target: '_blank' }
+        links: {
+            externalAttrs: { target: '_blank' }
+        }
     },
     theme: defaultTheme({
         logo: 'https://littleskin.cn/favicon.png',
