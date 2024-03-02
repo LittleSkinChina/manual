@@ -24,7 +24,7 @@ LittleSkin 仅提供材质的上传、存储、检索和分享的功能。想要
 
 CustomSkinLoader 是我们最推荐的皮肤 Mod。
 
-你可以在 [MCBBS](https://www.mcbbs.net/thread-269807-1-1.html) 或 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/customskinloader) 获取关于 CustomSkinLoader 的更多信息。
+你可以在 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/customskinloader) 获取关于 CustomSkinLoader 的更多信息。
 
 ### 14.7 +
 
