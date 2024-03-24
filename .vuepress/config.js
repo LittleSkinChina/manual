@@ -56,7 +56,8 @@ export default defineUserConfig({
                     'children': [
                         '/newbee/player.html',
                         '/newbee/textures.html',
-                        '/newbee/mod.html'
+                        '/newbee/mod.html',
+                        '/newbee/launch.html'
                     ]
                 },
                 {
